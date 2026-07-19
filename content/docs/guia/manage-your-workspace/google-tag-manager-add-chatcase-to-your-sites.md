@@ -18,7 +18,7 @@ Instalação<a href="#installation" id="installation"></a>Se você já estiver u
 
 4\. Em seguida, você precisa configurar um recipiente. O recipiente contém todas as suas tags, tais como tag Google Analytics, tag Adwords e tag ChatCase. Nomeie o recipiente, selecione para opção Web e clique em Criar.
 
-<figure><img src="/files/gZkOXaiMxxuDX0oNahje" alt=""><figcaption></figcaption></figure>5\. **Aceitar** Termos e condições e continuar.\
+<figure><img src="/doc-images/gZkOXaiMxxuDX0oNahje.webp" alt=""><figcaption></figcaption></figure>5\. **Aceitar** Termos e condições e continuar.\
 6\. Você receberá um recipiente com um excerto de código. Copie o código e cole-o em **cada página** do seu site ou na sua página de modelo (ex:index.php) logo abaixo da tag de abertura.\
 Clique em **OK** para fechar a caixa de recorte de código e terminar de configurar o gerenciador GTM e seu primeiro recipiente.
 

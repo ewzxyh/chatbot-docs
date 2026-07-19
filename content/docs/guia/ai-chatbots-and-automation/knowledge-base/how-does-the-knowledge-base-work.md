@@ -5,7 +5,7 @@ description: "Como funciona a Base de Conhecimento"
 
 Como funciona a Base de Conhecimento
 
-<figure><img src="/files/ltFTPzSHpehNf4OBBFN9" alt=""><figcaption></figcaption></figure>## # A explicação do conceito RAG
+<figure><img src="/doc-images/ltFTPzSHpehNf4OBBFN9.png" alt=""><figcaption></figcaption></figure>## # A explicação do conceito RAG
 
 O modo **Standard** da base de conhecimento de ChatCase funciona seguindo a arquitetura RAG, com recuperação vetorial *semantic* em seu núcleo. Este paradigma de RAG tornou-se o quadro técnico principal para permitir que grandes modelos acessem aos conhecimentos externos mais recentes. Esta tecnologia foi implementada em uma variedade de cenários de aplicação.
 
@@ -18,7 +18,7 @@ Nossa RAG (a Base de Conhecimento) tem dois serviços únicos que fazem com que 
 
 Passo a passo<a href="#step-by-step" id="step-by-step"></a>Você envia um documento da Base de Conhecimento para o serviço do analisador:
 
-<figure><img src="/files/8Pa9uJ7sMzlFRsf4Pqzk" alt=""><figcaption></figcaption></figure>1. O documento KB é carregado através de UI ou API do ChatCase.
+<figure><img src="/doc-images/8Pa9uJ7sMzlFRsf4Pqzk.png" alt=""><figcaption></figcaption></figure>1. O documento KB é carregado através de UI ou API do ChatCase.
 2. **O documento KB é armazenado com segurança. É sempre removido no passo \[7]**
 3. O serviço de Parser lê o documento KB do armazenamento e "chunks" o conteúdo usando diferentes técnicas (Nota: com as APIs de Upload do KB você pode ajustar o bloco, mas você não pode ditar quantos pedaços são analisados dentro de um documento).
 4. Um modelo de incorporação é usado para converter cada pedaço em um vetor (também conhecido como “embedding”) que se parece com um vetor com componentes numéricos i'ts \[3.2, 2.13, ...] e representa seu “significante”.
@@ -30,11 +30,11 @@ No ChatCase, não cobramos pelo processo de upload ou incorporação.
 
 Você pode pensar neste vetor como um 'ponto' específico em "espaço". Todos esses pontos são algumas “distâncias” uns dos outros, e a distância entre dois desses pontos (vetores) é o quão semelhante no significado diferentes pedaços de texto são.
 
-<figure><img src="/files/k4slyb6otSdClpne0EY6" alt=""><figcaption></figcaption></figure>A imagem vem deste [artigo online](https://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)
+<figure><img src="/doc-images/k4slyb6otSdClpne0EY6.png" alt=""><figcaption></figcaption></figure>A imagem vem deste [artigo online](https://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)
 
 O usuário faz uma pergunta que atinge o KB através do serviço de recuperação:
 
-<figure><img src="/files/yZqfpdEhAgzoaazf1mFU" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/yZqfpdEhAgzoaazf1mFU.png" alt=""><figcaption></figcaption></figure>
 
 1. O serviço do retriever obtém a pergunta e transforma-a em um vetor.
 2. O vetor de questão é pesquisado contra o vetorDB por uma pontuação de similaridade, retornando o número mais semelhante de pedaços (Chunk Limit define quantos pedaços) em ordem decrescente por pontuação de similaridade.
@@ -63,7 +63,7 @@ Os prompts internos que usamos para iterar ao longo do tempo, mas estão na linh
 
 ** Esta requisição LLM tem tokens de consulta e resposta que você está cobrando para**. Você pode ver estes totais de token em uma citação de resposta enquanto testa no modo Debug no ChatCase:
 
-<figure><img src="/files/GAdNNAdLw0fvVb3dcmpz" alt=""><figcaption></figcaption></figure>Como seus dados são tratados e protegidos<a href="#how-your-data-is-treated-and-secured" id="how-your-data-is-treated-and-secured"></a>Na base de dados ChatCase Knowledge é processado através de várias etapas fundamentais para garantir a funcionalidade e segurança. Em primeiro lugar, uma incorporação de um pedaço de texto (semantic vector) é gerada enviando o conteúdo sobre HTTPS para um serviço OpenAI.
+<figure><img src="/doc-images/GAdNNAdLw0fvVb3dcmpz.png" alt=""><figcaption></figcaption></figure>Como seus dados são tratados e protegidos<a href="#how-your-data-is-treated-and-secured" id="how-your-data-is-treated-and-secured"></a>Na base de dados ChatCase Knowledge é processado através de várias etapas fundamentais para garantir a funcionalidade e segurança. Em primeiro lugar, uma incorporação de um pedaço de texto (semantic vector) é gerada enviando o conteúdo sobre HTTPS para um serviço OpenAI.
 
 ** Embora o OpenAI tenha acesso às informações durante esta fase, não armazena quaisquer dados**. De qualquer forma, tenha em mente que se você tiver políticas rigorosas sobre seus dados, existem soluções alternativas. Ver último parágrafo.
 

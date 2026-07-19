@@ -16,7 +16,7 @@ Então, simplesmente solte a ação Wait do menu do lado esquerdo para o [Block]
 
 Em seguida, clique na ação Esperar, e o menu do lado direito aparecerá, permitindo que você defina o Tempo de Atraso, como mostrado na imagem abaixo.
 
-<figure><img src="/files/XDChn2ny6j0g0h5XgqNz" alt=""><figcaption></figcaption></figure>Isso é tudo!
+<figure><img src="/doc-images/XDChn2ny6j0g0h5XgqNz.png" alt=""><figcaption></figcaption></figure>Isso é tudo!
 
 A partir de agora, após a última mensagem, a conversa vai esperar 4 segundos antes da próxima ação ser acionada.
 

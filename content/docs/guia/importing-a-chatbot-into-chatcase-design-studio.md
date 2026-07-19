@@ -9,9 +9,9 @@ Passo 1: Navegue para a Secção de Bots<a href="#step-1-navigate-to-the-bots-se
 
 ### **Passo 2: Iniciar o Processo de Importação**<a href="#step-2-start-the-import-process" id="step-2-start-the-import-process"></a>Procure o "Adicionar do zero" no topo direito da seção Bots e clique nele para iniciar o processo de importação.
 
-<figure><img src="/files/0ZvU7WkR4qcZJHQHyfMQ" alt=""><figcaption></figcaption></figure>#### **Passo 3: Escolha a Opção de Importação#<a href="#step-3-choose-import-option" id="step-3-choose-import-option"></a>Na nova tela, mude para a aba **Import**, que permite importar chatbots de outros projetos do ChatCase.
+<figure><img src="/doc-images/0ZvU7WkR4qcZJHQHyfMQ.png" alt=""><figcaption></figcaption></figure>#### **Passo 3: Escolha a Opção de Importação#<a href="#step-3-choose-import-option" id="step-3-choose-import-option"></a>Na nova tela, mude para a aba **Import**, que permite importar chatbots de outros projetos do ChatCase.
 
-<figure><img src="/files/QVGch4jeNZpjmFd9udmp" alt=""><figcaption></figcaption></figure>Passo 4: Importação do JSON<a href="#step-4-import-from-json" id="step-4-import-from-json"></a>Localize o recurso **"Import chatbot from JSON"**. Os arquivos JSON são usados para transportar e configurar dados do chatbot.
+<figure><img src="/doc-images/QVGch4jeNZpjmFd9udmp.png" alt=""><figcaption></figcaption></figure>Passo 4: Importação do JSON<a href="#step-4-import-from-json" id="step-4-import-from-json"></a>Localize o recurso **"Import chatbot from JSON"**. Os arquivos JSON são usados para transportar e configurar dados do chatbot.
 
 #### **Passo 5: Selecione Arquivo JSON<a href="#step-5-select-json-file" id="step-5-select-json-file"></a>Pressione o botão **"IMPORT CHATBOT FROM JSON"** e selecione o arquivo JSON apropriado do seu computador para fazer o upload.
 

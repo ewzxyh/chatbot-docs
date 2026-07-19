@@ -7,7 +7,7 @@ AI Condição
 
 **Ai Condition** é uma ação inteligente que permite automatizar a tomada de decisão dentro de um fluxo de conversação usando **Modelos de IA Generativos (LLMs)** tais como **OpenAI GPT-5**, **Google Gemini**, **Anthropic Claude**, **Grok**, e muito mais.
 
-<figure><img src="/files/1Wk9qpR2r07JMWRHmAY4" alt=""><figcaption></figcaption></figure>Ao contrário da Ação de Condição padrão, que se baseia na lógica básica (por exemplo, “se o valor é igual a...”), a Condição **AI usa o entendimento da linguagem para avaliar o significado semântico da mensagem do usuário e tomar decisões conscientes do contexto.
+<figure><img src="/doc-images/1Wk9qpR2r07JMWRHmAY4.png" alt=""><figcaption></figcaption></figure>Ao contrário da Ação de Condição padrão, que se baseia na lógica básica (por exemplo, “se o valor é igual a...”), a Condição **AI usa o entendimento da linguagem para avaliar o significado semântico da mensagem do usuário e tomar decisões conscientes do contexto.
 
 
 O ChatCase só pode continuar um caminho de Condição por execução.
@@ -35,7 +35,7 @@ No painel esquerdo do Design Studio, vá para **AI → AI Condição**. Esta aç
 
 Envia a última mensagem do usuário para o LLM selecionado (por exemplo, GPT-5 ou Gemini).
 
-<figure><img src="/files/cgl6fD3e46ec5QXrUHxK" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/cgl6fD3e46ec5QXrUHxK.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}Passo 2
@@ -75,7 +75,7 @@ Como configurar
 
 {% step %}No campo *Instruções*, digite:`User said: {{lastUserText}}`
 
-<figure><img src="/files/KFLzudl06DlORRDmAAjp" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/KFLzudl06DlORRDmAAjp.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}Benefício: Detectar usuários infelizes e prevenir churn conectando-os com um representante humano no momento certo.
 
@@ -103,7 +103,7 @@ Como configurar
 
 {% step %}No campo *Instruções*, digite:`User’s last question: {{lastUserText}}`
 
-<figure><img src="/files/qbMcfkymuxcs04Woh8p8" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/qbMcfkymuxcs04Woh8p8.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}Benefício: Enviar automaticamente cada conversa para a equipe certa sem intervenção humana, reduzindo os tempos de espera e aumentando a Resolução de Primeiro Contato (FCR).
 

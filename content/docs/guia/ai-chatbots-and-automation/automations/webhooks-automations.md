@@ -3,7 +3,7 @@ title: "Webhooks Automaçãos"
 description: "Uma automação webhook atua como um ponto de entrada em um fluxo ChatCase, recebendo uma solicitação HTTP, processando-a através da lógica de fluxo, e opcionalmente retornando uma r"
 ---
 
-<figure><img src="/files/IXXVKuILM70RdpP3NL9P" alt=""><figcaption></figcaption></figure>**Webhooks Automations** em ChatCase permitem expor um fluxo de automação como um endpoint HTTP que pode ser invocado por sistemas externos.\
+<figure><img src="/doc-images/IXXVKuILM70RdpP3NL9P.png" alt=""><figcaption></figcaption></figure>**Webhooks Automations** em ChatCase permitem expor um fluxo de automação como um endpoint HTTP que pode ser invocado por sistemas externos.\
 Eles funcionam de uma forma muito semelhante a **Make.com webhooks**, permitindo integrações orientadas para eventos, comunicação backend-to-backend e gatilhos de automação personalizados.
 
 Uma automação webhook atua como um ponto de entrada** em um fluxo ChatCase, recebendo uma solicitação HTTP, processando-a através da lógica de fluxo, e opcionalmente retornando uma resposta HTTP estruturada.
@@ -12,18 +12,18 @@ Uma automação webhook atua como um ponto de entrada** em um fluxo ChatCase, re
 
 Ir em Fluxos > Automations anche escolha "Webhook"
 
-<figure><img src="/files/Vgqu6EwMdOKTMuDTSLzB" alt=""><figcaption></figcaption></figure>Escolha um nome para o seu Webhook
+<figure><img src="/doc-images/Vgqu6EwMdOKTMuDTSLzB.png" alt=""><figcaption></figcaption></figure>Escolha um nome para o seu Webhook
 
-<figure><img src="/files/z8IZUqxa0fT5pNtJb31x" alt=""><figcaption></figcaption></figure>Você é transferido para o Webbook Design Studio
+<figure><img src="/doc-images/z8IZUqxa0fT5pNtJb31x.png" alt=""><figcaption></figcaption></figure>Você é transferido para o Webbook Design Studio
 
-<figure><img src="/files/VPaex0JvaUiwJAeIvjtI" alt=""><figcaption></figcaption></figure>Quando você cria uma Webhook Automation, ChatCase gera automaticamente **dois URLs webhook distintos**:
+<figure><img src="/doc-images/VPaex0JvaUiwJAeIvjtI.png" alt=""><figcaption></figcaption></figure>Quando você cria uma Webhook Automation, ChatCase gera automaticamente **dois URLs webhook distintos**:
 
 * **Desenvolvimento Webhook URL**
 * **Produção Webhook URL**
 
 Cada URL está ligada ao mesmo fluxo de automação, mas serve um propósito diferente.
 
-<figure><img src="/files/0eglwK624d3HhQouxYiB" alt=""><figcaption></figcaption></figure>Webhook de desenvolvimento
+<figure><img src="/doc-images/0eglwK624d3HhQouxYiB.png" alt=""><figcaption></figcaption></figure>Webhook de desenvolvimento
 
 O webhook de desenvolvimento** foi projetado para testes e depuração.
 
@@ -32,7 +32,7 @@ Principais características:
 * Invocar este endpoint permite que você **observe a execução do fluxo em tempo real**
 * Um painel de depuração live** aparece na parte inferior do editor de fluxo
 
-<figure><img src="/files/6rijc0JswBveuZjbpWt2" alt=""><figcaption></figcaption></figure>* Você pode inspecionar:
+<figure><img src="/doc-images/6rijc0JswBveuZjbpWt2.png" alt=""><figcaption></figcaption></figure>* Você pode inspecionar:
 * Carga útil recebida
 * Ordem de execução do nó
 * Variáveis e dados intermediários
@@ -75,7 +75,7 @@ Você pode acessar esses valores em qualquer lugar do fluxo usando:
 *`payload.name`
 * `payload.email`No exemplo a seguir estamos ecoando o nome fornecido na carga útil pós na chamada
 
-<figure><img src="/files/ZCkOFuZ7Gcri61BcvJ70" alt=""><figcaption></figcaption></figure># # Retornando uma resposta
+<figure><img src="/doc-images/ZCkOFuZ7Gcri61BcvJ70.png" alt=""><figcaption></figcaption></figure># # Retornando uma resposta
 
 Para retornar uma resposta ao cliente chamado, você deve usar explicitamente a ação **Response** dentro do fluxo.
 
@@ -104,13 +104,13 @@ Este modo é útil quando:
 
 ChatCase fornece uma seção dedicada **Webhook Administration** no painel.
 
-<figure><img src="/files/gYIfZnOcIgdv2QqunPHv" alt=""><figcaption></figcaption></figure>A partir deste painel você pode:
+<figure><img src="/doc-images/gYIfZnOcIgdv2QqunPHv.png" alt=""><figcaption></figcaption></figure>A partir deste painel você pode:
 
 * Monitor **runtime webhook logs**
 * Inspecione cargas úteis de solicitação e resultados de execução
 * Temporariamente **desativar um webhook** se necessário (por exemplo, por razões de manutenção ou segurança)
 
-<figure><img src="/files/Aa53B8iBaeOH7MOCkMHx" alt=""><figcaption></figcaption></figure>Este componente é especialmente útil em ambientes de produção para garantir a observação e o controle operacional.
+<figure><img src="/doc-images/Aa53B8iBaeOH7MOCkMHx.png" alt=""><figcaption></figcaption></figure>Este componente é especialmente útil em ambientes de produção para garantir a observação e o controle operacional.
 
 Casos de uso típicos
 

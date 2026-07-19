@@ -12,7 +12,7 @@ Como todas as ações, o JSON Condition tem duas visualizações:
 * **Previsão da ação** — o cartão compacto que você vê na tela, que resume as condições e mostra os dois conectores de saída (o ramo verde **true** e o ramo **Else**).
 * ** Editor de ação** — o painel que abre quando você clica na ação, onde você constrói as condições.
 
-<figure><img src="/files/LtrFjFpFcjyPoHAMXcgu" alt=""><figcaption></figcaption></figure>***
+<figure><img src="/doc-images/LtrFjFpFcjyPoHAMXcgu.png" alt=""><figcaption></figcaption></figure>***
 
 Como funciona
 
@@ -34,7 +34,7 @@ Cada condição é feita de três partes, mostradas no editor como **Nome do atr
 
 > *Screenshot: o editor "Atributo Personalizado" com os campos Nome do atributo, Condição e Valor.*
 
-<figure><img src="/files/XO6jC9d4Lx3pmpBWX7JS" alt=""><figcaption></figcaption></figure># # # # 1. Nome do atributo
+<figure><img src="/doc-images/XO6jC9d4Lx3pmpBWX7JS.png" alt=""><figcaption></figcaption></figure># # # # 1. Nome do atributo
 
 Este é o ** lado esquerdo** da comparação — o atributo cujo valor você deseja verificar. Você pode:
 

@@ -21,4 +21,4 @@ Passo 3: Criar caminhos 2x<a href="#step-3-create-2x-paths" id="step-3-create-2x
 
 Parabéns! Você configurou com sucesso um chat ao vivo com a transferência do agente e a coleção de informações de contato usando o Construtor Visual Sem Código da ChatCase. Seu chatbot agora lidará com eficiência com interações do cliente, transferindo-as para agentes humanos quando disponíveis e coletando informações de contato para acompanhamento quando necessário.
 
-<figure><img src="/files/Vmh3DiPy6ytjYZPPeXAB" alt=""><figcaption></figcaption></figure>Você tem algum feedback sobre este artigo? Por favor, envie-nos em[redacted@example.invalid](mailto:redacted@example.invalid)Aproveitem o ChatCase!
+<figure><img src="/doc-images/Vmh3DiPy6ytjYZPPeXAB.png" alt=""><figcaption></figcaption></figure>Você tem algum feedback sobre este artigo? Por favor, envie-nos em[redacted@example.invalid](mailto:redacted@example.invalid)Aproveitem o ChatCase!

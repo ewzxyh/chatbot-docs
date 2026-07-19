@@ -13,7 +13,7 @@ Adicionar um título de botão, escolher URL como um tipo, abrir em branco e ** 
 
 > \*\*<https://wa.me/**+393491234567&#x38;**?text=**&#x48;e&#x79;**%20**nee&#x64;**%20**mor&#x65;**%20**info>
 
-<figure><img src="/files/JyJlsaXFyxIU5eiCEvhX" alt=""><figcaption></figcaption></figure>A ligação consiste em:
+<figure><img src="/doc-images/JyJlsaXFyxIU5eiCEvhX.png" alt=""><figcaption></figcaption></figure>A ligação consiste em:
 
 1. a parte inicial<https://wa.me/>2. seguido por **o número de telefone** para o qual você deseja transferir a conversa, então presumivelmente o seu número de negócio.
 3. a parte final é “**?text=**” após a qual você pode inserir qualquer texto que você gostaria que será enviado como uma primeira mensagem no chat WhatsApp. Lembre-se de incluir **%20** qualquer hora que você gostaria **para inserir espaço**. Exemplo: Hey% 20need% 20more% 20info

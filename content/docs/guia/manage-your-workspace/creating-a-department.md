@@ -29,9 +29,9 @@ Como criar um Departamento
 4. Clique na opção **Todos os companheiros de equipe** ou selecione um [**Grupo**](/docs/guia/manage-your-workspace/creating-groups) para adicioná-los ao departamento.
 5. Clique em **Criar Departamento**.
 
-<figure><img src="/files/6fW1gxQrwS3PJ4ZKZcBf" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/6fW1gxQrwS3PJ4ZKZcBf.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="/files/ZDwU1cuAWDAKQ47qBN3e" alt=""><figcaption></figcaption></figure>Como incorporar departamentos no fluxo de conversação
+<figure><img src="/doc-images/ZDwU1cuAWDAKQ47qBN3e.png" alt=""><figcaption></figcaption></figure>Como incorporar departamentos no fluxo de conversação
 
 Para recordar os departamentos no fluxo de conversa, dirija-se ao [Design Studio](https://panel.chatcase.com/v3/dashboard/#/signup).&#x20;
 
@@ -39,23 +39,23 @@ Como mostrado na imagem abaixo, eu uso “[ChatGPT task](/docs/guia/ai-chatbots-
 
 No prompt, peço ao ChatGPT para categorizar as perguntas recebidas em “**sales**” ou “**support**”.
 
-<figure><img src="/files/WNeLVLctoiC1cwDRNpKk" alt=""><figcaption></figcaption></figure>Então, precisamos usar outra ação chamada “Condição w/else”.&#x20;
+<figure><img src="/doc-images/WNeLVLctoiC1cwDRNpKk.png" alt=""><figcaption></figcaption></figure>Então, precisamos usar outra ação chamada “Condição w/else”.&#x20;
 
-<figure><img src="/files/ZlNnjerlqWzd50kp9vFX" alt=""><figcaption></figcaption></figure>Carregue nele e, a partir da configuração de contexto correcta, carregue em "Adicionar nova condição".
+<figure><img src="/doc-images/ZlNnjerlqWzd50kp9vFX.png" alt=""><figcaption></figcaption></figure>Carregue nele e, a partir da configuração de contexto correcta, carregue em "Adicionar nova condição".
 
-<figure><img src="/files/eTb9QkFUzbsRZZzlmeuz" alt=""><figcaption></figcaption></figure>Entre os Atributos, selecione “gpt\ reply”.
+<figure><img src="/doc-images/eTb9QkFUzbsRZZzlmeuz.png" alt=""><figcaption></figcaption></figure>Entre os Atributos, selecione “gpt\ reply”.
 
 Escolha "Iniciar com Ignorar Caso" entre as Condições, e colocar "vendas" como o valor.
 
-<figure><img src="/files/jcajcKLwsD3pGEHe0bdL" alt=""><figcaption></figcaption></figure>Agora, precisamos conectar a ação “Mudar Departamento” ao ponto final verde do bloco Condição, como você pode ver na imagem abaixo.
+<figure><img src="/doc-images/jcajcKLwsD3pGEHe0bdL.png" alt=""><figcaption></figcaption></figure>Agora, precisamos conectar a ação “Mudar Departamento” ao ponto final verde do bloco Condição, como você pode ver na imagem abaixo.
 
-<figure><img src="/files/XTGPU35MQr9SWf3hGEO1" alt=""><figcaption></figcaption></figure>Clique no novo bloco e escolha o departamento relevante.
+<figure><img src="/doc-images/XTGPU35MQr9SWf3hGEO1.png" alt=""><figcaption></figcaption></figure>Clique no novo bloco e escolha o departamento relevante.
 
-<figure><img src="/files/F0pxfRTyCSKSxLqLtyY6" alt=""><figcaption></figcaption></figure>Isso é tudo. Todas as perguntas sobre vendas serão transferidas para o departamento de vendas.
+<figure><img src="/doc-images/F0pxfRTyCSKSxLqLtyY6.png" alt=""><figcaption></figcaption></figure>Isso é tudo. Todas as perguntas sobre vendas serão transferidas para o departamento de vendas.
 
 Para perguntas orientadas ao suporte, você precisa seguir exatamente o mesmo processo e selecionar o departamento de suporte. &#x20;
 
-<figure><img src="/files/YTlEjGpfQJAwsa9GScWx" alt=""><figcaption></figcaption></figure>Espero que isto ajude. Caso precise de mais suporte, não hesite em entrar em contato-nos em [**redacted@example.invalid**](mailto:redacted@example.invalid).
+<figure><img src="/doc-images/YTlEjGpfQJAwsa9GScWx.png" alt=""><figcaption></figcaption></figure>Espero que isto ajude. Caso precise de mais suporte, não hesite em entrar em contato-nos em [**redacted@example.invalid**](mailto:redacted@example.invalid).
 
 Para mais informações, visite: [**www.ChatCase.com**](https://chatcase.com/)\
 &#x20;

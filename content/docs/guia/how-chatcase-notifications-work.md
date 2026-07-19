@@ -31,13 +31,13 @@ Se você permanecer na sua guia de console, tendo o mesmo em primeiro plano, voc
 
 Veja abaixo como a notificação será mostrada para você.
 
-<figure><img src="/files/KyFpN5Z9s0zpqzzqcRFR" alt=""><figcaption></figcaption></figure>Se o som estiver ativado, uma notificação de áudio sempre será reproduzida em cada nova mensagem ou chat atribuído.
+<figure><img src="/doc-images/KyFpN5Z9s0zpqzzqcRFR.png" alt=""><figcaption></figcaption></figure>Se o som estiver ativado, uma notificação de áudio sempre será reproduzida em cada nova mensagem ou chat atribuído.
 
 **Notificações no aplicativo para conversas não atribuídas**&#x20;
 
 Para qualquer nova notificação “não assinada” você sempre verá um novo pop-up com um som correspondente. A notificação tem um tema amarelo, para distingui-lo de mensagens pop-up normais.
 
-<figure><img src="/files/0mzt8lrSSwaZ3jk3jTBg" alt=""><figcaption></figcaption></figure>Você receberá notificações não atribuídas, se o seguinte se aplicar:
+<figure><img src="/doc-images/0mzt8lrSSwaZ3jk3jTBg.png" alt=""><figcaption></figcaption></figure>Você receberá notificações não atribuídas, se o seguinte se aplicar:
 
 * O companheiro de equipe está logado no painel e um projeto é selecionado
 * Ninguém está disponível (ou todos estão ocupados, ou o projeto está offline devido ao horário de funcionamento, etc.) para responder
@@ -50,7 +50,7 @@ As notificações de som garantirão que você não perca nenhum bate-papo ou me
 
 Para silenciar o som, basta clicar no "icon áudio" no canto direito da aplicação do console.
 
-<figure><img src="/files/PcPMiDW3i8p9uc1d4qqi" alt=""><figcaption></figcaption></figure># # # # A aplicação do console está no fundo<a href="#the-console-app-is-in-the-background" id="the-console-app-is-in-the-background"></a>Quando a aplicação de console não estiver visível (porque ela está escondida de alguma forma por outras aplicações, ou, por definição, porque ela não está no “foreground” como a definimos anteriormente), ChatCase terá alguma notificação visual especial para atrair a atenção do usuário.
+<figure><img src="/doc-images/PcPMiDW3i8p9uc1d4qqi.png" alt=""><figcaption></figcaption></figure># # # # A aplicação do console está no fundo<a href="#the-console-app-is-in-the-background" id="the-console-app-is-in-the-background"></a>Quando a aplicação de console não estiver visível (porque ela está escondida de alguma forma por outras aplicações, ou, por definição, porque ela não está no “foreground” como a definimos anteriormente), ChatCase terá alguma notificação visual especial para atrair a atenção do usuário.
 
 Para obter estas notificações de fundo deve aplicar-se o seguinte:
 
@@ -67,7 +67,7 @@ Quando há mensagens não lidas, o título da página muda continuamente com o t
 
 Uma notificação de push do Desktop aparecerá muito semelhante à do primeiro plano. Clicar na notificação moverá seu companheiro de equipe para o chat correspondente.
 
-<figure><img src="/files/LhKH9dDVqeeebe5HgPv3" alt=""><figcaption></figcaption></figure>**Notificações de e- mail**
+<figure><img src="/doc-images/LhKH9dDVqeeebe5HgPv3.png" alt=""><figcaption></figcaption></figure>**Notificações de e- mail**
 
 Por padrão, o ChatCase envia notificações por e-mail para conversas atribuídas ao companheiro de equipe logado, bem como para conversas não atribuídas. Confira o artigo [Notificações de e-mail ChatCase para conversas atribuídas e não atribuídas](/docs/guia/notifications/chatcase-email-notifications-for-assigned-and-unassigned-conversations) para saber mais.
 

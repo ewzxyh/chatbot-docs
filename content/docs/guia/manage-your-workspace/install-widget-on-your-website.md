@@ -8,7 +8,7 @@ Instalação<a href="#installation" id="installation"></a>Para conversar com os 
 1. **Localize o código javascript**\
 Você pode encontrar seu código javascript exclusivo ChatCase no seu painel ChatCase dirigindo-se para as **Configurações > Widget > Adicionar chat ao seu site**
 
-<figure><img src="/files/FFkD1UqD78YFLcicQU20" alt=""><figcaption></figcaption></figure>1. **Copiar o código Javascript**
+<figure><img src="/doc-images/FFkD1UqD78YFLcicQU20.png" alt=""><figcaption></figcaption></figure>1. **Copiar o código Javascript**
 
 ```
   <script type="application/javascript">
@@ -30,7 +30,7 @@ Você pode encontrar seu código javascript exclusivo ChatCase no seu painel Cha
 Copie o javascript acima na seção *With javascript code*.\
 O exemplo é fornecido abaixo:&#x20;
 
-<figure><img src="/files/Z7XtGcYvfRd28Bqgcr9K" alt=""><figcaption></figcaption></figure>**3. Abra a página HTML do seu site**\
+<figure><img src="/doc-images/Z7XtGcYvfRd28Bqgcr9K.png" alt=""><figcaption></figcaption></figure>**3. Abra a página HTML do seu site**\
 Acesse a página na qual seu site está hospedado com a ferramenta que lhe permite modificar os arquivos ou fazer login em sua respectiva plataforma Dashboard.\
 &#x20;
 
@@ -45,4 +45,4 @@ Salve as mudanças, e é isso! Agora, verifique o seu site e desfrutar widget Ch
 6. Verifique seu site**\
 Vá ao seu site e verifique se você pode ver o widget ChatCase
 
-<figure><img src="/files/LIZhbuFGslfTxFtMdE9J" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/LIZhbuFGslfTxFtMdE9J.gif" alt=""><figcaption></figcaption></figure>

@@ -21,11 +21,11 @@ Para avaliar o e-mail do usuário, preciso usar uma ação chamada “[ChatGPT T
 
 * O e-mail do usuário é:*
 
-<figure><img src="/files/eppKILf9vbHqLQ5TmvwX" alt=""><figcaption></figcaption></figure>Então, usarei a ação Mensagem Escondida e inserirei . Nesse cenário, extraimos a empresa do usuário do e-mail sem compartilhar essas informações com o usuário final, pois não é necessário compartilhar com eles.&#x20;
+<figure><img src="/doc-images/eppKILf9vbHqLQ5TmvwX.png" alt=""><figcaption></figcaption></figure>Então, usarei a ação Mensagem Escondida e inserirei . Nesse cenário, extraimos a empresa do usuário do e-mail sem compartilhar essas informações com o usuário final, pois não é necessário compartilhar com eles.&#x20;
 
-<figure><img src="/files/M0QFPGm2a4lyFU93lDFH" alt=""><figcaption></figcaption></figure>Na próxima etapa, usarei outra ação chamada “Atributo Set” para atribuir o nome da empresa do usuário a um novo atributo, como mostrado na imagem abaixo.
+<figure><img src="/doc-images/M0QFPGm2a4lyFU93lDFH.png" alt=""><figcaption></figcaption></figure>Na próxima etapa, usarei outra ação chamada “Atributo Set” para atribuir o nome da empresa do usuário a um novo atributo, como mostrado na imagem abaixo.
 
-<figure><img src="/files/uAqHbIX1RAHSauVphYdq" alt=""><figcaption></figcaption></figure>Com essa estratégia, podemos registrar a empresa do usuário em um novo atributo apenas pedindo seu e-mail de trabalho.
+<figure><img src="/doc-images/uAqHbIX1RAHSauVphYdq.png" alt=""><figcaption></figcaption></figure>Com essa estratégia, podemos registrar a empresa do usuário em um novo atributo apenas pedindo seu e-mail de trabalho.
 
 \
 Espero que tenha achado isto útil.

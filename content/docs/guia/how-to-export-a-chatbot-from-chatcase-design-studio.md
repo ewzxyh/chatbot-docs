@@ -11,7 +11,7 @@ Passo 1: Acesse o Design Studio<a href="#step-1-access-the-design-studio" id="st
 
 Passo 2: Abra a seção "Exportar Importação"<a href="#step-2-open-the-import-export-section" id="step-2-open-the-import-export-section"></a>
 
-<figure><img src="/files/8QLxYAgZjnIJvc1jSk7t" alt=""><figcaption></figcaption></figure>* Na barra lateral esquerda do Design Studio, ** encontrar** o ícone "Configurações" representado por uma engrenagem.
+<figure><img src="/doc-images/8QLxYAgZjnIJvc1jSk7t.png" alt=""><figcaption></figcaption></figure>* Na barra lateral esquerda do Design Studio, ** encontrar** o ícone "Configurações" representado por uma engrenagem.
 * **Clique nele e vá para a guia "Exportar Importar".\
 &#x20;
 

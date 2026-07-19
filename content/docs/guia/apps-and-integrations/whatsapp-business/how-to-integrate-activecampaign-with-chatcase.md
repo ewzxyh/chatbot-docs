@@ -28,7 +28,7 @@ Obtenha este ID da plataforma **Meta for Developers** onde você instalou seu ap
 Escolha qualquer modelo WhatsApp pré-aprovado que tenha criado no Meta. Se você precisar de ajuda para criar modelos, [veja mais sobre modelos aqui](/docs/guia/apps-and-integrations/whatsapp-business/how-to-use-whatsapp-templates-with-chatcase).
 * ** Variáveis**: Insira os placeholders relevantes, como o número de telefone do destinatário e o primeiro nome, para mensagens dinâmicas.
 
-<figure><img src="/files/lVaOqBlrTYXtYN81mpSO" alt=""><figcaption></figcaption></figure>***
+<figure><img src="/doc-images/lVaOqBlrTYXtYN81mpSO.png" alt=""><figcaption></figcaption></figure>***
 
 **Passo 3: Criar uma Automação no ActiveCampaign**[**#**](https://gethelp.chatcase.com/articles/how-to-integrate-activecampaign-with-chatcase/#step-3-create-an-automation-in-activecampaign)
 
@@ -36,7 +36,7 @@ Escolha qualquer modelo WhatsApp pré-aprovado que tenha criado no Meta. Se voc�
 2. Vá para a seção **Automation** e crie um novo fluxo de trabalho.
 3. Selecione seu desejado **Trigger** e escolha a opção **Webhook** na lista de fluxo de trabalho. Isto permitirá ao ActiveCampaign chamar o ChatCase quando as condições de disparo forem satisfeitas.
 
-<figure><img src="/files/NJ83sQgfRanUfzDZfHSe" alt=""><figcaption></figcaption></figure>***
+<figure><img src="/doc-images/NJ83sQgfRanUfzDZfHSe.png" alt=""><figcaption></figcaption></figure>***
 
 **Passo 4: Configure o URL do Webhook no ActiveCampaign**[**#**](https://gethelp.chatcase.com/articles/how-to-integrate-activecampaign-with-chatcase/#step-4-set-up-the-webhook-url-in-activecampaign)
 

@@ -7,11 +7,11 @@ Com o ChatCase, você não só pode personalizar a aparência do seu widget de c
 
 Os seguintes elementos podem ser modificados através do painel **ChatCase**, sob as configurações ** > **Widget**&#x20;
 
-<figure><img src="/files/HDOa1prx9pegZnMfOJkf" alt=""><figcaption></figcaption></figure># # # 1. # Aparência Contínua #
+<figure><img src="/doc-images/HDOa1prx9pegZnMfOJkf.png" alt=""><figcaption></figcaption></figure># # # 1. # Aparência Contínua #
 
 Você pode ajustar a aparência do seu widget ChatCase diretamente na seção **Widget Aparência**.
 
-<figure><img src="/files/oBJEz200uIwrhE9ZU2eE" alt=""><figcaption></figcaption></figure>Aqui está o que você pode personalizar:
+<figure><img src="/doc-images/oBJEz200uIwrhE9ZU2eE.png" alt=""><figcaption></figcaption></figure>Aqui está o que você pode personalizar:
 
 * ** Temas:** Existem alguns temas disponíveis. Você pode escolher um e visualizar o widget na seção direita.
 * **Ou use as cores personalizadas:**
@@ -28,7 +28,7 @@ Depois de fazer essas alterações, você verá a visualização ao vivo no lado
 
 Controle onde e quando o widget é mostrado em seu site.
 
-<figure><img src="/files/TQ57GX3U0sLXtSfGXSb0" alt=""><figcaption></figcaption></figure>* ** Versão de Desktop:**
+<figure><img src="/doc-images/TQ57GX3U0sLXtSfGXSb0.png" alt=""><figcaption></figcaption></figure>* ** Versão de Desktop:**
 * ** Ligar/Desligar: ** Você pode ocultar totalmente ou mostrar o widget.
 * ** Modo de exibição:** Escolha se o widget permanece **Open**, **Fechado**, ou se lembra de seu **Último Estado**.
 * ** Versão móvel:**
@@ -48,13 +48,13 @@ Este recurso simplifica a experiência para os usuários e impede várias conver
 * Botão de lançamento personalizado:**
 * Você pode substituir a imagem do botão de lançamento por seu logotipo. Os formatos de imagem suportados incluem **PNG**, **JPG** e **SVG**, com um tamanho recomendado de **60x60px**.
 
-<figure><img src="/files/ExDhBH408VqhqYYdBnsj" alt=""><figcaption></figcaption></figure>**Nota:** A funcionalidade ** Unbranding** está disponível apenas para o ** Pro Plan** e superior.
+<figure><img src="/doc-images/ExDhBH408VqhqYYdBnsj.png" alt=""><figcaption></figcaption></figure>**Nota:** A funcionalidade ** Unbranding** está disponível apenas para o ** Pro Plan** e superior.
 
 5. Saudações
 
 Personalize as mensagens mostradas aos usuários quando abrirem o chat.
 
-<figure><img src="/files/p5A8RqMlF8mvMmsCbhdd" alt=""><figcaption></figcaption></figure>* ** Mensagem de boas-vindas:** Cumprimente os visitantes com uma mensagem personalizada quando abrirem o chat.
+<figure><img src="/doc-images/p5A8RqMlF8mvMmsCbhdd.png" alt=""><figcaption></figcaption></figure>* ** Mensagem de boas-vindas:** Cumprimente os visitantes com uma mensagem personalizada quando abrirem o chat.
 * **Introdução da equipe:** Apresente sua equipe e explique como você pode ajudar.
 * **Online/Offline/Off of Office Mensagens:** Defina mensagens personalizadas para quando sua equipe estiver disponível ou offline.
 
@@ -64,7 +64,7 @@ Alterações feitas às saudações aparecerão imediatamente na pré-visualiza�
 
 Você pode exibir o tempo médio de resposta da sua equipe aos usuários.
 
-<figure><img src="/files/zKxxIUSMzlsbT0RqjcMS" alt=""><figcaption></figcaption></figure>* ** Mensagem única:** Mostrar uma mensagem como "A equipe responderá o mais rápido possível."
+<figure><img src="/doc-images/zKxxIUSMzlsbT0RqjcMS.png" alt=""><figcaption></figcaption></figure>* ** Mensagem única:** Mostrar uma mensagem como "A equipe responderá o mais rápido possível."
 * ** Tempo médio de resposta:** Use uma mensagem dinâmica como "A equipe normalmente responde em $reply\ time."
 
 Se o tempo médio de resposta não estiver disponível, você pode configurar uma mensagem diferente para ser mostrada.
@@ -79,7 +79,7 @@ Se o tempo médio de resposta não estiver disponível, você pode configurar um
 
 Você pode adicionar vários idiomas ao seu widget
 
-<figure><img src="/files/73WtVeoqcm07vAFwHBEK" alt=""><figcaption></figcaption></figure>* ** Língua padrão:** O idioma padrão é o inglês, mas você pode alterá-lo a qualquer momento.
+<figure><img src="/doc-images/73WtVeoqcm07vAFwHBEK.png" alt=""><figcaption></figcaption></figure>* ** Língua padrão:** O idioma padrão é o inglês, mas você pode alterá-lo a qualquer momento.
 * **Adding Languages:** Clique em **Manage** para adicionar um novo idioma. Você pode selecionar entre mais de **100 idiomas**. Algumas línguas vêm pré-traduzido, enquanto outras precisam de tradução manual.
 * ** Fazendo um padrão de linguagem:** Depois de adicionar um novo idioma, clique em **Make Default** para aplicá-lo. Você também pode editar traduções manualmente na mesma página e salvá-las.
 
@@ -87,11 +87,11 @@ Você pode adicionar vários idiomas ao seu widget
 
 O widget pode ser exibido apenas em páginas específicas. Você pode configurar isso habilitando a opção e definindo ** expressões regulares** para corresponder aos URLs onde o widget deve aparecer.
 
-<figure><img src="/files/05EV6Va9Zy3EyV3ZSIpB" alt=""><figcaption></figcaption></figure>10. **Configurações avançadas
+<figure><img src="/doc-images/05EV6Va9Zy3EyV3ZSIpB.png" alt=""><figcaption></figcaption></figure>10. **Configurações avançadas
 
 Gerenciar recursos adicionais do widget
 
-<figure><img src="/files/iAWIylZNMGYR0vRsbL2F" alt=""><figcaption></figcaption></figure>* **Ataques: **
+<figure><img src="/doc-images/iAWIylZNMGYR0vRsbL2F.png" alt=""><figcaption></figcaption></figure>* **Ataques: **
 * ** Activar/desativar os Anexos:** Permitir aos usuários enviar anexos ou ocultar o botão anexo.
 * **Allowed extensões de arquivo:** Defina quais tipos de arquivos são aceitáveis (por exemplo, **.pdf**, **.png**).
 * ** Emojis:**

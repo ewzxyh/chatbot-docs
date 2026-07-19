@@ -3,7 +3,7 @@ title: "Re-ranking"
 description: "Re-ranking é uma segunda etapa de seleção mais inteligente aplicada após uma pesquisa inicial (por exemplo, busca por vetores, busca por palavras-chave, pesquisa híbrida)."
 ---
 
-<figure><img src="/files/b0QZ2wtZqRmxQBabUGQ3" alt=""><figcaption></figcaption></figure># # O que é re-ranking (explicação fácil)
+<figure><img src="/doc-images/b0QZ2wtZqRmxQBabUGQ3.png" alt=""><figcaption></figcaption></figure># # O que é re-ranking (explicação fácil)
 
 Re-ranking é uma segunda etapa de seleção mais inteligente aplicada após uma pesquisa inicial (por exemplo, busca por vetores, busca por palavras-chave, pesquisa híbrida).
 
@@ -163,11 +163,11 @@ Em ChatCase, suportes de re- classificação:
 
 Vá para a seção Bases de Conhecimento e pressione + Novo botão Base de Conhecimento, em seguida, escolha a opção "Hybri search"
 
-<figure><img src="/files/Y8bxKCAbzwvax5phwnHR" alt=""><figcaption></figcaption></figure>Uma vez que a base de conhecimento é criada, você pode criar e conectar um Agente de IA diretamente a ele
+<figure><img src="/doc-images/Y8bxKCAbzwvax5phwnHR.png" alt=""><figcaption></figcaption></figure>Uma vez que a base de conhecimento é criada, você pode criar e conectar um Agente de IA diretamente a ele
 
-<figure><img src="/files/o2EHpuW2LZKdP6vjTbc0" alt=""><figcaption></figcaption></figure>No fluxo do AI Agent, você também pode decidir ativar/desativar a re-classificação para uma ação específica da base de conhecimento de pedido
+<figure><img src="/doc-images/o2EHpuW2LZKdP6vjTbc0.png" alt=""><figcaption></figcaption></figure>No fluxo do AI Agent, você também pode decidir ativar/desativar a re-classificação para uma ação específica da base de conhecimento de pedido
 
-<figure><img src="/files/tyKXOb3TFw9xStJXDdnk" alt=""><figcaption></figcaption></figure># # # Quando você deve permitir a re-classificação?
+<figure><img src="/doc-images/tyKXOb3TFw9xStJXDdnk.png" alt=""><figcaption></figcaption></figure># # # Quando você deve permitir a re-classificação?
 
 A reclassificação é especialmente valiosa quando:
 

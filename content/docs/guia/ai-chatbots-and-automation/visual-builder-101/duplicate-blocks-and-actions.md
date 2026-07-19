@@ -16,11 +16,11 @@ Duplicar um bloco
 
 Os blocos são a base de um fluxo de trabalho de IA. Para duplicar um Bloco, passe por cima do que deseja copiar. Uma pequena barra de ferramentas aparecerá no canto superior direito. Clique na opção "Copiar bloco".
 
-<figure><img src="/files/SBBYlPYA5FyqrQmlb3X9" alt=""><figcaption></figcaption></figure>Em seguida, clique com o botão direito para abrir o menu suspenso e selecione “**Paste**.”&#x20;
+<figure><img src="/doc-images/SBBYlPYA5FyqrQmlb3X9.png" alt=""><figcaption></figcaption></figure>Em seguida, clique com o botão direito para abrir o menu suspenso e selecione “**Paste**.”&#x20;
 
 É isso — você copiou e colou com sucesso um Bloco.
 
-<figure><img src="/files/T04YTcrt6MltUMHTTInf" alt=""><figcaption></figcaption></figure>Duplicar uma ação dentro de um bloco
+<figure><img src="/doc-images/T04YTcrt6MltUMHTTInf.png" alt=""><figcaption></figcaption></figure>Duplicar uma ação dentro de um bloco
 
 Cada ação aumenta a flexibilidade do seu agente de IA. Você pode duplicar uma ação para acelerar o design do fluxo de trabalho.
 
@@ -28,9 +28,9 @@ Para fazer isso, passe o cursor sobre a Ação que deseja copiar. Uma pequena ba
 
 &#x20;
 
-<figure><img src="/files/0p4hkBDHsHyF6E1nGcGo" alt=""><figcaption></figcaption></figure>Em seguida, clique com o botão direito onde você precisa dessa ação e selecione “**Paste**” das opções. Isso é tudo :)
+<figure><img src="/doc-images/0p4hkBDHsHyF6E1nGcGo.png" alt=""><figcaption></figcaption></figure>Em seguida, clique com o botão direito onde você precisa dessa ação e selecione “**Paste**” das opções. Isso é tudo :)
 
-<figure><img src="/files/Te0Yh6reP7UZplCgyR2f" alt=""><figcaption></figcaption></figure>Esperamos que este tutorial o ajude a projetar seu Agente de IA de forma mais eficiente. &#x20;
+<figure><img src="/doc-images/Te0Yh6reP7UZplCgyR2f.png" alt=""><figcaption></figcaption></figure>Esperamos que este tutorial o ajude a projetar seu Agente de IA de forma mais eficiente. &#x20;
 
 Se você precisa saber mais sobre agentes de IA e suas capacidades, visite nosso site em [**www.ChatCase.com**](https://chatcase.com/).&#x20;
 

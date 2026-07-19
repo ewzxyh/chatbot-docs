@@ -5,7 +5,7 @@ description: "LLMs suportados"
 
 LLMs suportados
 
-<figure><img src="/files/DoYeNmkCrAldLrJqSxPA" alt="" width="375"><figcaption></figcaption></figure>ChatCase suporta nativamente vários modelos de linguagem grande, incluindo soluções baseadas em nuvem e modelos de código aberto através de integrações Ollama e vLLM.
+<figure><img src="/doc-images/DoYeNmkCrAldLrJqSxPA.png" alt="" width="375"><figcaption></figcaption></figure>ChatCase suporta nativamente vários modelos de linguagem grande, incluindo soluções baseadas em nuvem e modelos de código aberto através de integrações Ollama e vLLM.
 
 ## # Fornecedores e modelos LLM suportados<a href="#supported-llm-providers-and-models" id="supported-llm-providers-and-models"></a>Cohere
 

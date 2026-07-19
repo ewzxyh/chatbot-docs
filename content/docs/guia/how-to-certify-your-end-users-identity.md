@@ -15,9 +15,9 @@ Você pode encontrar uma [exemplo instância de usuário autenticado ](https://c
 
 Como você pode ver, usuários autenticados diferem de usuários anônimos pelo “escudo” azul claro ao lado da imagem de perfil do usuário:
 
-<figure><img src="/files/Png1Wn4WEOeEu1PLFAce" alt=""><figcaption></figcaption></figure>\
+<figure><img src="/doc-images/Png1Wn4WEOeEu1PLFAce.png" alt=""><figcaption></figcaption></figure>\
 Todos os detalhes sobre autenticação estão sempre disponíveis para Agentes na seção *senderAuthInfo* no painel de Contato e no Painel de Conversação da conversa atual:
 
-<figure><img src="/files/2imkvpRs4RKC9hOleNrL" alt=""><figcaption></figcaption></figure>Para qualquer feedback ou problema, sinta-se à vontade para aparecer no nosso[ canal Discord](https://discord.gg/nERZEZ7SmG) ;
+<figure><img src="/doc-images/2imkvpRs4RKC9hOleNrL.png" alt=""><figcaption></figcaption></figure>Para qualquer feedback ou problema, sinta-se à vontade para aparecer no nosso[ canal Discord](https://discord.gg/nERZEZ7SmG) ;
 
 Para mais informações sobre quem somos, o que fazemos, ou o que é o nosso shtick, visite [ChatCase.com](https://chatcase.com/) 👩‍🚀

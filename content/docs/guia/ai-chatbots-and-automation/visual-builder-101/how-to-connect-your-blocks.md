@@ -9,14 +9,14 @@ ChatCase permite que você crie agentes de IA sem código rapidamente. Um dos pr
 
 Neste tutorial, vamos guiá-lo através do processo de construção de um fluxo de trabalho, ligando [Blocks](/docs/guia/ai-chatbots-and-automation/visual-builder-101/how-to-create-a-block) em ChatCase.
 
-<figure><img src="/files/pc0fiysBooTfZsQqfcKe" alt=""><figcaption></figcaption></figure>**Passo 1: Compreender Blocos, Ações e Conexões**
+<figure><img src="/doc-images/pc0fiysBooTfZsQqfcKe.gif" alt=""><figcaption></figcaption></figure>**Passo 1: Compreender Blocos, Ações e Conexões**
 
 * Em ChatCase, fluxos de trabalho do AI Agent são construídos usando [Blocks](/docs/guia/ai-chatbots-and-automation/visual-builder-101/how-to-create-a-block).
 * Blocos são construídos usando ações.
 * Blocos são conectados para criar um fluxo de trabalho.
 * As conexões entre blocos são feitas usando caminhos.
 
-<figure><img src="/files/AHJgkQaMiJJaycsi1jQY" alt=""><figcaption></figcaption></figure>**Passo 2: Criar Caminhos**
+<figure><img src="/doc-images/AHJgkQaMiJJaycsi1jQY.png" alt=""><figcaption></figcaption></figure>**Passo 2: Criar Caminhos**
 
 * Para conectar Blocos, você precisa criar caminhos.
 * Hover sobre a porta de saída de qualquer [botão](/docs/guia/ai-chatbots-and-automation/knowledge-base/using-buttons-in-an-ai-workflow-to-trigger-the-knowledge-base) ou Block. Ele vai se transformar em um ícone verde mais quando você pairar sobre ele.
@@ -36,7 +36,7 @@ Clique no conector e, em seguida, selecione o ícone . O conector será escondid
 2. ** Texto da linha**\
 Esta opção permite- lhe adicionar uma nota em cada caminho. Notas ajudam você a organizar fluxos de trabalho complexos mais facilmente e manter seu design limpo.
 
-<figure><img src="/files/OdM1RmhomaJG6R9U1hgz" alt=""><figcaption></figcaption></figure>** Passo 4: Entendendo o significado dos caminhos **<br>* Os caminhos determinam as decisões tomadas pelos usuários dentro do fluxo de trabalho.
+<figure><img src="/doc-images/OdM1RmhomaJG6R9U1hgz.png" alt=""><figcaption></figcaption></figure>** Passo 4: Entendendo o significado dos caminhos **<br>* Os caminhos determinam as decisões tomadas pelos usuários dentro do fluxo de trabalho.
 * Eles orientam os usuários através de interações específicas com base em como eles se envolvem com o Agente de IA.
 * Continue adicionando Blocos e conectando-os com caminhos para construir seu fluxo de trabalho de IA. Isso representa os próximos passos na interação.
 Teste-o!

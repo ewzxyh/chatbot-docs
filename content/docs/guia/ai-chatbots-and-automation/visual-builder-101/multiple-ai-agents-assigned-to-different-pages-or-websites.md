@@ -7,7 +7,7 @@ Forçar o widget ChatCase a iniciar a partir de um Agente de IA específico usan
 
 Por padrão, o widget carrega usando apenas o`projectid`. Se o seu projeto contém vários agentes de IA, você pode forçar o widget a começar a partir de um específico, definindo o`departmentID`do Departamento ligado ao agente da IA.
 
-<figure><img src="/files/rHyYtcy3d0wSYcskNL1Q" alt=""><figcaption></figcaption></figure>* Mesmo site: use diferentes agentes de IA em diferentes landing pages (mesmo ID do projeto, diferentes IDs do departamento).
+<figure><img src="/doc-images/rHyYtcy3d0wSYcskNL1Q.png" alt=""><figcaption></figcaption></figure>* Mesmo site: use diferentes agentes de IA em diferentes landing pages (mesmo ID do projeto, diferentes IDs do departamento).
 * Sites diferentes: usar diferentes agentes de IA e projetos diferentes (diferentes IDs de projeto e IDs de departamento).
 
 # # Passos
@@ -19,7 +19,7 @@ Por padrão, o widget carrega usando apenas o`projectid`. Se o seu projeto cont�
 * Criar um novo Departamento e conectá-lo ao Agente de IA que você quer como a experiência padrão.
 * Copie o ID do Departamento ** gerado pelo ChatCase.
 
-<figure><img src="/files/aHV7udLgOta4QhDmjYZC" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/aHV7udLgOta4QhDmjYZC.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}## # Esconder o Departamento (opcional)

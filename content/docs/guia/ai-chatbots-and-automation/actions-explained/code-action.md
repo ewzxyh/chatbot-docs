@@ -27,14 +27,14 @@ No exemplo a seguir publicado na Comunidade ChatCase você pode testar como func
 
 [Exemplo de ação do Código Comunitário](https://chatcase.com/community/search/getchatbotinfo/chatbotId/65d12ff648cc2800132cd27e-Code-Action-basic-example)
 
-<figure><img src="/files/Zsb3kHc4KvYMWrN8fh7I" alt=""><figcaption></figcaption></figure>Neste exemplo executamos algumas tarefas:
+<figure><img src="/doc-images/Zsb3kHc4KvYMWrN8fh7I.png" alt=""><figcaption></figcaption></figure>Neste exemplo executamos algumas tarefas:
 
 1. Modifique o atributo “idade” existente configurado usando a ação Definir atributo (idade = 2)
 2. Adicione um atributo totalmente novo (jsondata) ao fluxo
 
 Você pode ver o resultado impresso na resposta:
 
-<figure><img src="/files/OHc1fSXqkMrdPVq07a8j" alt=""><figcaption></figcaption></figure>**Use case: Teste A/B com Ação de Código
+<figure><img src="/doc-images/OHc1fSXqkMrdPVq07a8j.png" alt=""><figcaption></figcaption></figure>**Use case: Teste A/B com Ação de Código
 
 Dê uma olhada neste Chatbot comunitário para criar um chatbot teste A/B usando o Code Action.
 

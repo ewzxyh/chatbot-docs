@@ -41,4 +41,4 @@ Mas **antes da mão**, certifique-se de que você passou pelos seguintes passos.
 * Não edite um chatbot existente nem importe como json chatbots feitos com a tecnologia anterior.
 * Criar um novo chatbot indo para a seção "All" em "My Chatbots"; em seguida, clique em "Adicionar do zero" e finalmente importar o Hello Bot.
 
-<figure><img src="/files/1CSMXolCfzw9KbtlKUVc" alt=""><figcaption></figcaption></figure>♪ ♪ [clique aqui para assinar] (https://panel.chatcase.com/v3/dashboard)[#](https://gethelp.chatcase.com/articles/how-to-access-the-new-chatbot-design-studio/#click-here-to-sign-in) <a href="#click-here-to-sign-in" id="click-here-to-sign-in"></a>
+<figure><img src="/doc-images/1CSMXolCfzw9KbtlKUVc.png" alt=""><figcaption></figcaption></figure>♪ ♪ [clique aqui para assinar] (https://panel.chatcase.com/v3/dashboard)[#](https://gethelp.chatcase.com/articles/how-to-access-the-new-chatbot-design-studio/#click-here-to-sign-in) <a href="#click-here-to-sign-in" id="click-here-to-sign-in"></a>

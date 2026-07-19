@@ -15,14 +15,14 @@ A funcionalidade central do chatbot centra-se na sua capacidade de analisar imag
 * Há um ** bem-vindo intenção / bloco** que desencadeia uma saudação inicial e um prompt para carregar uma imagem com a seguinte mensagem "*Inserir uma imagem, por favor*".
 * A **default fallback intention / block** é geralmente configurado para lidar com entradas não reconhecidas com prompts como “Você pode reformular sua pergunta?” Mas neste caso, é configurado para pedir ao usuário para escrever o que ele quer saber sobre a imagem que ele enviou.
 
-<figure><img src="/files/lk6aDm8i1Zorb5WLrzgl" alt=""><figcaption></figcaption></figure>**2. Análise de imagem usando API de visão e integração GPT**
+<figure><img src="/doc-images/lk6aDm8i1Zorb5WLrzgl.png" alt=""><figcaption></figcaption></figure>**2. Análise de imagem usando API de visão e integração GPT**
 
 * ** Intenção da API de visão**: Esta é a principal característica onde o bot analisa as imagens carregadas e responde com insights.
 * **Passos na Análise de Imagem**:
 * **Requisito de Imagem**: Os usuários são instruídos a carregar uma imagem. O robô pausa com uma mensagem como, "Analisando...".
 * **Web Request Setup**: Escolha a opção "Post" e insira a API:<https://api.openai.com/v1/chat/completions>
 
-<figure><img src="/files/jhLhsfkLj9Qz1dJ8emMt" alt=""><figcaption></figcaption></figure>* **Prompt Design**: Escolha então a opção “Corpo” onde você pode inserir o prompt estruturado por Json:
+<figure><img src="/doc-images/jhLhsfkLj9Qz1dJ8emMt.png" alt=""><figcaption></figcaption></figure>* **Prompt Design**: Escolha então a opção “Corpo” onde você pode inserir o prompt estruturado por Json:
 &#x20; "modelo": "gpt-4o-mini",\
 &#x20; "mensagens": \[\
 &#x20; #
@@ -46,7 +46,7 @@ A funcionalidade central do chatbot centra-se na sua capacidade de analisar imag
 * ** Autorização**: Insira o atributo neste campo depois de ter inserido a Chave OpenAI na seção Globals do seu Bot você vai encontrar como o terceiro ícone na extrema direita do Design Studio.
 * ** Processamento de resultados**: A resposta da API é armazenada em uma variável (*result*), que o bot formata e retransmite para o usuário como uma descrição detalhada da bicicleta.
 
-<figure><img src="/files/YnV7CbHwlKpTgve5ykC0" alt=""><figcaption></figcaption></figure>**3. Enviando a imagem para a API de visão do OpenAI**
+<figure><img src="/doc-images/YnV7CbHwlKpTgve5ykC0.png" alt=""><figcaption></figcaption></figure>**3. Enviando a imagem para a API de visão do OpenAI**
 
 * ** Configuração da Chamada API**: O bot constrói uma solicitação de API para o GPT-4 Vision API do OpenAI. Esta chamada API está configurada para enviar tanto um prompt de texto quanto a URL da imagem para o modelo para processamento.
 * **API Request Structure**:
@@ -61,7 +61,7 @@ A funcionalidade central do chatbot centra-se na sua capacidade de analisar imag
 * ** Comentários do Usuário**: O bot formata a resposta e envia-a de volta para o usuário como uma descrição detalhada, garantindo que a informação seja clara e fácil de usar.
 * ** Seguimentos opcionais**: Depois de mostrar os resultados, o bot pergunta se o usuário deseja enviar outra imagem.
 
-<figure><img src="/files/MCLcb3eiHuxzTi8jsAXQ" alt=""><figcaption></figcaption></figure>**5. Integração com ChatCase e OpenAI API**
+<figure><img src="/doc-images/MCLcb3eiHuxzTi8jsAXQ.png" alt=""><figcaption></figcaption></figure>**5. Integração com ChatCase e OpenAI API**
 
 * ** Autorização API**: O bot usa uma chave API armazenada com segurança na infraestrutura do ChatCase. Pedidos para a API do OpenAI são autorizados usando o cabeçalho Autorização.
 * ** Configuração do JSON**: O bot utiliza solicitações JSON para enviar e receber dados da API Vision, seguindo um formato estruturado para consultas baseadas em imagens e textos.

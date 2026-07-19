@@ -5,7 +5,7 @@ description: "O recurso Synchronized Sitemap permite que você importe e mantenh
 
 O recurso **Synchronized Sitemap** permite que você importe e mantenha automaticamente um sitemap inteiro em sua Base de Conhecimento do ChatCase. Uma vez configurados, todos os URLs do mapa do site são continuamente sincronizados e atualizados com base na taxa de atualização que você define, garantindo que sua base de conhecimento sempre reflete o conteúdo mais recente do seu site.
 
-<figure><img src="/files/Z0JiuTJ1s0BK5s8tsPsH" alt=""><figcaption></figcaption></figure>Este recurso é ideal para manter documentação atualizada, centros de ajuda, blogs ou qualquer conteúdo do site que muda regularmente, sem intervenção manual.
+<figure><img src="/doc-images/Z0JiuTJ1s0BK5s8tsPsH.png" alt=""><figcaption></figcaption></figure>Este recurso é ideal para manter documentação atualizada, centros de ajuda, blogs ou qualquer conteúdo do site que muda regularmente, sem intervenção manual.
 
 Características chave
 
@@ -35,7 +35,7 @@ Os URLs removidos são automaticamente excluídos da Base de Conhecimento
 
 4. &# x20; Herança: Todos os URLs mantêm as mesmas marcas HTML, marcas RAG e taxa de atualização como o mapa de site pai
 
-<figure><img src="/files/XrBGLHOBkhsNPzjHJfqI" alt=""><figcaption></figcaption></figure>A ver URLs sincronizadas
+<figure><img src="/doc-images/XrBGLHOBkhsNPzjHJfqI.png" alt=""><figcaption></figcaption></figure>A ver URLs sincronizadas
 
 Uma vez importado, você pode:
 
@@ -43,11 +43,11 @@ Uma vez importado, você pode:
 * Veja a última data e status de sincronização para cada URL
 * Verifique o conteúdo individual da URL e metadados
 
-<figure><img src="/files/WK2S8frt8tCXC5LlPRLU" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/WK2S8frt8tCXC5LlPRLU.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
-<figure><img src="/files/uv6NigknMEvWEr5CCAgy" alt=""><figcaption></figcaption></figure>Configuração de etiquetas HTML
+<figure><img src="/doc-images/uv6NigknMEvWEr5CCAgy.png" alt=""><figcaption></figcaption></figure>Configuração de etiquetas HTML
 
 Especifique quais elementos HTML incluir ou excluir durante a extração de conteúdo. Páginas são ** completamente renderizadas e executadas em uma instância Chromium sem cabeça** antes da extração de texto, garantindo que o conteúdo renderizado por JavaScript seja capturado corretamente.
 

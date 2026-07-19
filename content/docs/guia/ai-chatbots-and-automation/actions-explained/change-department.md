@@ -21,9 +21,9 @@ A ação do Departamento de Mudança está localizada entre as ações especiais
 
 Coloque- o na tela como mostrado na imagem abaixo. &# x20;
 
-<figure><img src="/files/c5z89QAx6tYdm8ctWGmi" alt=""><figcaption></figcaption></figure>Então, do botão “Fale com a equipe de vendas”, continue a conversa para a ação do Departamento de Mudança. Ao clicar no bloco, o menu do lado direito aparecerá, permitindo que você escolha o departamento adequado.
+<figure><img src="/doc-images/c5z89QAx6tYdm8ctWGmi.png" alt=""><figcaption></figcaption></figure>Então, do botão “Fale com a equipe de vendas”, continue a conversa para a ação do Departamento de Mudança. Ao clicar no bloco, o menu do lado direito aparecerá, permitindo que você escolha o departamento adequado.
 
-<figure><img src="/files/FMLdQv7OnZHluQc2M6JH" alt=""><figcaption></figcaption></figure>Espero que tenha achado isto útil.
+<figure><img src="/doc-images/FMLdQv7OnZHluQc2M6JH.png" alt=""><figcaption></figcaption></figure>Espero que tenha achado isto útil.
 
 Se precisar de assistência, não hesite em entrar em contato-nos através de[redacted@example.invalid](mailto:redacted@example.invalid).&#x20;
 

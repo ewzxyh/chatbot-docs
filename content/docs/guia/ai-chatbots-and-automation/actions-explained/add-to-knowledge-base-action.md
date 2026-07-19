@@ -9,4 +9,4 @@ Você pode selecionar o alvo Base de Conhecimento e usar esta ação para carreg
 
 Muito útil para criar fluxos de auto-formação, onde algum conteúdo carregado por usuários ou agentes humanos são usados para povoar uma base de conhecimento
 
-<figure><img src="/files/74kCt5bNyT3Ad0PUREsu" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/74kCt5bNyT3Ad0PUREsu.png" alt=""><figcaption></figcaption></figure>

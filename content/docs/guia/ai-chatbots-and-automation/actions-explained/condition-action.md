@@ -7,18 +7,18 @@ Ação da Condição
 
 A **Condição** A ação é muito útil para projetar fluxos de trabalho dinâmicos. Sempre que você precisa dividir uma conversa em duas ou mais filiais, esta Ação vem a calhar — por exemplo, enviando consultas de vendas diretamente para a equipe de vendas.
 
-<figure><img src="/files/7Kw4syxRICnnee3MplaR" alt=""><figcaption></figcaption></figure>Existem duas Ações de Condição em **Ações de fluxo** na barra de ferramentas esquerda. Neste tutorial vamos focar em **Condição w/ else**. Esta ação permite- lhe definir uma condição:
+<figure><img src="/doc-images/7Kw4syxRICnnee3MplaR.png" alt=""><figcaption></figcaption></figure>Existem duas Ações de Condição em **Ações de fluxo** na barra de ferramentas esquerda. Neste tutorial vamos focar em **Condição w/ else**. Esta ação permite- lhe definir uma condição:
 
 * se a condição for verdadeira, o endpoint ** verde é desencadeado,
 * se a condição for falsa, o ponto final ** vermelho é acionado.
 
-<figure><img src="/files/dxx9F2xN1hafUJGvVWgm" alt=""><figcaption></figcaption></figure>Como usá-lo
+<figure><img src="/doc-images/dxx9F2xN1hafUJGvVWgm.png" alt=""><figcaption></figcaption></figure>Como usá-lo
 
 1. Procurar **Condição w/ else** em *Ações de fluxo* na barra de ferramentas esquerda.
 2. Arraste e solte na tela onde precisar.
 3. Clique nele: um painel abre à direita onde você pode escolher o atributo que você deseja avaliar.
 
-<figure><img src="/files/vOX5eL2YOAbysW6i7Qdi" alt=""><figcaption></figcaption></figure>Para criar uma condição:
+<figure><img src="/doc-images/vOX5eL2YOAbysW6i7Qdi.png" alt=""><figcaption></figcaption></figure>Para criar uma condição:
 
 1. Clique em ** Adicionar uma nova condição**.
 2. Um pop-up aparecerá.
@@ -29,7 +29,7 @@ A **Condição** A ação é muito útil para projetar fluxos de trabalho dinâm
 
 É isso — você estabeleceu uma nova condição.
 
-<figure><img src="/files/ntTJQtOZoqqSGys7g2hO" alt=""><figcaption></figcaption></figure>## # Opções de condição disponíveis
+<figure><img src="/doc-images/ntTJQtOZoqqSGys7g2hO.png" alt=""><figcaption></figcaption></figure>## # Opções de condição disponíveis
 
 Aqui está o que cada opção significa em palavras simples:
 
@@ -46,12 +46,12 @@ Aqui está o que cada opção significa em palavras simples:
 * **is Undefined** → true if the attribute is not defined at all.
 * **matches** → check if the value matches a specific pattern (for advanced use cases).
 
-<figure><img src="/files/Q6Yfhr6oJtmarUi8fVYm" alt=""><figcaption></figcaption></figure>Exemplos
+<figure><img src="/doc-images/Q6Yfhr6oJtmarUi8fVYm.png" alt=""><figcaption></figcaption></figure>Exemplos
 
 **1. Pedir e-mail antes de fechar um chat**\
 Verifique se *userEmail* é ** Undefined**. Se for verdade, o endpoint verde irá acionar e você pode pedir o email antes de terminar a conversa.
 
-<figure><img src="/files/u73R6IYZ7heTW4Vz06ml" alt=""><figcaption></figcaption></figure>**2. Faça uma série de perguntas antes de seguir em frente**\
+<figure><img src="/doc-images/u73R6IYZ7heTW4Vz06ml.png" alt=""><figcaption></figcaption></figure>**2. Faça uma série de perguntas antes de seguir em frente**\
 Use uma tarefa [Chatgpt](/docs/guia/ai-chatbots-and-automation/actions-explained/chatgpt-task) para coletar detalhes passo a passo (por exemplo: nome, necessidades, número de telefone).\
 No prompt, você pode escrever:
 
@@ -69,7 +69,7 @@ Caso contrário, conecte o branch Else a um [Reply Action](/docs/guia/ai-chatbot
 
 Em seguida, o ChatGPT fará a próxima pergunta até que responda com "eject".
 
-<figure><img src="/files/xGVQZecV1anUjhX16pap" alt=""><figcaption></figcaption></figure>3. Entrega imediata ao apoio humano**\
+<figure><img src="/doc-images/xGVQZecV1anUjhX16pap.png" alt=""><figcaption></figcaption></figure>3. Entrega imediata ao apoio humano**\
 Use uma tarefa Chatgpt para executar análise de sentimento na transcrição da conversa.\
 No prompt, você pode escrever:
 
@@ -80,6 +80,6 @@ If yes, answer strictly with the word "human".
 Quando o Agente IA detecta frustração, o **gpt\ reply** conterá *human*.\
 Definir uma condição: se **gpt\ reply for igual a "humano"**, acionar a ação [**Transfer to human**](/docs/guia/ai-chatbots-and-automation/actions-explained/transfer-to-a-human).
 
-<figure><img src="/files/jiZPQOnZK5H9SDTyZtd8" alt=""><figcaption></figcaption></figure>Estes são apenas alguns exemplos de como a Ação da Condição pode ser usada. Há muitas outras possibilidades de projetar fluxos de trabalho inteligentes e flexíveis.
+<figure><img src="/doc-images/jiZPQOnZK5H9SDTyZtd8.png" alt=""><figcaption></figcaption></figure>Estes são apenas alguns exemplos de como a Ação da Condição pode ser usada. Há muitas outras possibilidades de projetar fluxos de trabalho inteligentes e flexíveis.
 
 Se você tiver alguma dúvida sobre a Condição Ação ou outros recursos ChatCase, entre em contato conosco em [**redacted@example.invalid**](mailto:redacted@example.invalid).

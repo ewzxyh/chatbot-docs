@@ -13,6 +13,6 @@ O seu estado<a href="#your-status" id="your-status"></a>Quando você está logad
 
 Para alterar seu status uma vez que você já está conectado, clique na imagem do avatar no canto superior esquerdo do menu do painel. Você pode simplesmente mudar seu status do menu suspenso.
 
-<figure><img src="/files/ouiXtePnP7U4Hv4cAGfs" alt=""><figcaption></figcaption></figure>#### ** A ver os status online de outros agentes**[#](https://gethelp.chatcase.com/articles/setting-your-availability-status/#viewing-other-agents-online-statuses) <a href="#viewing-other-agents-online-statuses" id="viewing-other-agents-online-statuses"></a>Você pode ver quais outros agentes estão disponíveis indo para Configurações > Colegas de equipe e grupos.
+<figure><img src="/doc-images/ouiXtePnP7U4Hv4cAGfs.png" alt=""><figcaption></figcaption></figure>#### ** A ver os status online de outros agentes**[#](https://gethelp.chatcase.com/articles/setting-your-availability-status/#viewing-other-agents-online-statuses) <a href="#viewing-other-agents-online-statuses" id="viewing-other-agents-online-statuses"></a>Você pode ver quais outros agentes estão disponíveis indo para Configurações > Colegas de equipe e grupos.
 
-<figure><img src="/files/xnSNYS5LQNBauEgRDId2" alt=""><figcaption></figcaption></figure>Para mais informações sobre quem somos, o que fazemos, visite[ ChatCase.com](https://chatcase.com/) 👩‍🚀
+<figure><img src="/doc-images/xnSNYS5LQNBauEgRDId2.png" alt=""><figcaption></figcaption></figure>Para mais informações sobre quem somos, o que fazemos, visite[ ChatCase.com](https://chatcase.com/) 👩‍🚀

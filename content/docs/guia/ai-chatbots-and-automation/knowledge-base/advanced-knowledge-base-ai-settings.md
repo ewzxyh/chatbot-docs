@@ -3,17 +3,17 @@ title: "Base de Conhecimento Avançada: Configurações de IA"
 description: "Você pode escolher os seguintes modelos de IA no menu suspenso: GPT-4.1, GPT-4.1 mini, GPT-4.1 nano, GPT-4o, GPT-4o Mini e etc. Como você pode ver na imagem abaixo, cada modelo con"
 ---
 
-<figure><img src="/files/QKkaynfw7yPBp6n2NDgD" alt=""><figcaption></figcaption></figure>As configurações de IA da ChatCase fornecem ferramentas poderosas para ajustar o comportamento e desempenho do seu agente de IA. Essas configurações incluem o número máximo de tokens, temperatura, pedaços, contexto do sistema e prompt. Este tutorial explicará cada uma dessas configurações e como elas afetam sua Base de Conhecimento.
+<figure><img src="/doc-images/QKkaynfw7yPBp6n2NDgD.png" alt=""><figcaption></figcaption></figure>As configurações de IA da ChatCase fornecem ferramentas poderosas para ajustar o comportamento e desempenho do seu agente de IA. Essas configurações incluem o número máximo de tokens, temperatura, pedaços, contexto do sistema e prompt. Este tutorial explicará cada uma dessas configurações e como elas afetam sua Base de Conhecimento.
 
 ### # Configurações de IA de acesso<a href="#access-ai-settings" id="access-ai-settings"></a>* Uma vez conectado, selecione a seção **Knowledge Base** (icon cerebral) do menu à esquerda.
 * Escolha criar uma nova Base de Conhecimento** ou usar a default**.
 * Clique no ícone **gear** para acessar e configurar as configurações **AI**.
 
-<figure><img src="/files/6hpZSmHUBGuxRz59W5qr" alt=""><figcaption></figcaption></figure># # # Configurações da IA explicadas<a href="#ai-settings-explained" id="ai-settings-explained"></a>Modelos de IA
+<figure><img src="/doc-images/6hpZSmHUBGuxRz59W5qr.png" alt=""><figcaption></figcaption></figure># # # Configurações da IA explicadas<a href="#ai-settings-explained" id="ai-settings-explained"></a>Modelos de IA
 
 Você pode escolher os seguintes modelos de IA no menu suspenso: GPT-4.1, GPT-4.1 mini, GPT-4.1 nano, GPT-4o, GPT-4o Mini e etc. Como você pode ver na imagem abaixo, cada modelo consome uma quantidade diferente de fichas.
 
-<figure><img src="/files/AnpYUklXQdHProGN9m4r" alt=""><figcaption></figcaption></figure>### **Diferenças entre modelos OpenAI#
+<figure><img src="/doc-images/AnpYUklXQdHProGN9m4r.png" alt=""><figcaption></figcaption></figure>### **Diferenças entre modelos OpenAI#
 
 * ** GPT-4.1**\
 **Definição:** A última geração na família GPT-4, oferecendo o mais alto nível de compreensão de linguagem e geração de texto. Mais adequado para cenários complexos onde precisão e contexto são críticos.\
@@ -47,7 +47,7 @@ Número máximo de fichas
 1. Localize a configuração **Número máximo de itens** nas configurações de IA.
 2. Digite o número desejado de fichas, até um máximo de 9999 (por exemplo, 100, 200, 500).
 
-<figure><img src="/files/pv6iSrtJ8dWyeSnc0NWb" alt=""><figcaption></figcaption></figure># # # **3. Temperatura #
+<figure><img src="/doc-images/pv6iSrtJ8dWyeSnc0NWb.png" alt=""><figcaption></figcaption></figure># # # **3. Temperatura #
 
 * **Definição**: A temperatura controla a aleatoriedade das respostas da IA. A ** menor** temperatura torna as respostas ** mais determinística e focada**, enquanto uma temperatura mais alta torna-as mais criativas e variadas.
 * **Impacto**: Ajustar a temperatura ajuda a equilibrar entre consistência e criatividade nas respostas.
@@ -101,7 +101,7 @@ Agora que você definiu suas preferências de IA, você pode ir ainda mais longe
 1. Vá para o Design Studio, e localize o campo **Prompt** dentro de qualquer ação de IA (por exemplo [Pedir Base de Conhecimento](/docs/guia/ai-chatbots-and-automation/actions-explained/ask-knowledge-base), [AI Assistant](/docs/guia/chatgpt-hacks/create-an-ai-assistant-in-openai)).
 2. Digite um prompt claro e conciso, baseado no que você gostaria de alcançar com um agente de IA específico, como abaixo.
 
-<figure><img src="/files/BZHmoBuEwO1i6cCemR53" alt=""><figcaption></figcaption></figure>Configurando configurações de IA - Recapitular<a href="#configuring-ai-settings-recap" id="configuring-ai-settings-recap"></a>1. **Configurações de IA de acesso**: Vá para o ícone de engrenagens para as configurações **AI** sob a guia **Bases de conhecimento**.
+<figure><img src="/doc-images/BZHmoBuEwO1i6cCemR53.png" alt=""><figcaption></figcaption></figure>Configurando configurações de IA - Recapitular<a href="#configuring-ai-settings-recap" id="configuring-ai-settings-recap"></a>1. **Configurações de IA de acesso**: Vá para o ícone de engrenagens para as configurações **AI** sob a guia **Bases de conhecimento**.
 2. **Ajustar o número máximo de itens**: Defina o limite de token desejado com base na complexidade e duração das respostas que você precisa.
 3. **Set Temperatura**: Escolha um valor de temperatura que equilibre criatividade e consistência.
 4. **Definir Chunks**: Determine o tamanho adequado do pedaço para otimizar o desempenho.

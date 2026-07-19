@@ -45,14 +45,14 @@ curl -L -X PUT 'https://example.com/api/{project_id}/departments/{department_id}
 * Clique no botão **Editar distribuição de carga** para definir a porcentagem de carga para cada grupo.
 * ** atualizar o departamento** para tornar as alterações eficazes
 
-<figure><img src="/files/gZWv2XsWeqXVNZwvu7gS" alt=""><figcaption></figcaption></figure>Após a configuração inicial, as percentagens do grupo poderão ser modificadas a qualquer momento &# x20;
+<figure><img src="/doc-images/gZWv2XsWeqXVNZwvu7gS.png" alt=""><figcaption></figcaption></figure>Após a configuração inicial, as percentagens do grupo poderão ser modificadas a qualquer momento &# x20;
 
 1. Navegue para a página **Departamentos** (**Configurações > Roteamento & Departamentos**);
 2. Selecione o Departamento que você configurou para balanceamento de carga;
 3. Clique no botão **Editar distribuição de carga**.<br>
 
-<figure><img src="/files/nHbXblWqamEOcCLpKwTz" alt=""><figcaption></figcaption></figure>na janela **Editar distribuição de carga** alterar os valores percentuais e Salvar.
+<figure><img src="/doc-images/nHbXblWqamEOcCLpKwTz.png" alt=""><figcaption></figcaption></figure>na janela **Editar distribuição de carga** alterar os valores percentuais e Salvar.
 
-<figure><img src="/files/nD5wX0ld5WTAiBxMX99o" alt=""><figcaption></figcaption></figure>Na lista de grupos você verá os valores percentuais atualizados. Como último passo, lembre-se de atualizar o Departamento
+<figure><img src="/doc-images/nD5wX0ld5WTAiBxMX99o.png" alt=""><figcaption></figcaption></figure>Na lista de grupos você verá os valores percentuais atualizados. Como último passo, lembre-se de atualizar o Departamento
 
-<figure><img src="/files/bSACtZeP08LyrThxGrLa" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/bSACtZeP08LyrThxGrLa.png" alt=""><figcaption></figcaption></figure>

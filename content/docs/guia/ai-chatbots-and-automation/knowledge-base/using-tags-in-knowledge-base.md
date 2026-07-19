@@ -9,15 +9,15 @@ O que você terá no fim
 
 No final desta configuração, o seu Agente de IA irá procurar apenas no conteúdo KB que corresponda à tag seleccionada, como`approved`.
 
-<figure><img src="/files/E70c4i9vkyk1HM8Yk2UG" alt="" width="563"><figcaption></figcaption></figure># # O que esta característica faz
+<figure><img src="/doc-images/E70c4i9vkyk1HM8Yk2UG.png" alt="" width="563"><figcaption></figcaption></figure># # O que esta característica faz
 
 Tags são rótulos simples aplicados ao conteúdo da Base de Conhecimento. Você pode adicionar uma ou mais tags ao criar ou editar um item de conteúdo.
 
-<figure><img src="/files/U9yNHXWEWAIKg6PDOW0z" alt=""><figcaption></figcaption></figure>Por favor, note: você tem que pressionar Enter após escrever a etiqueta.
+<figure><img src="/doc-images/U9yNHXWEWAIKg6PDOW0z.png" alt=""><figcaption></figcaption></figure>Por favor, note: você tem que pressionar Enter após escrever a etiqueta.
 
 Então, dentro da **Ask Knowledge Base** action in Design Studio, em AI Settings, você pode adicionar a mesma tag no campo **Tags**. Quando você faz isso, a pesquisa é executada apenas no conteúdo que corresponde a essa tag.
 
-<figure><img src="/files/e5rlJ0b6DU1ji6zeKzjF" alt=""><figcaption></figcaption></figure>As tags podem ser aplicadas a diferentes tipos de conteúdo do Knowledge Base, incluindo URLs do site, [syncronized sitemaps](/docs/guia/ai-chatbots-and-automation/knowledge-base/how-to-use-synchronized-sitemap-in-knowledge-base), FAQs, texto simples e arquivos carregados em formatos suportados. Isso significa que você pode organizar e filtrar muitos tipos de conteúdo usando a mesma lógica de tag.
+<figure><img src="/doc-images/e5rlJ0b6DU1ji6zeKzjF.png" alt=""><figcaption></figcaption></figure>As tags podem ser aplicadas a diferentes tipos de conteúdo do Knowledge Base, incluindo URLs do site, [syncronized sitemaps](/docs/guia/ai-chatbots-and-automation/knowledge-base/how-to-use-synchronized-sitemap-in-knowledge-base), FAQs, texto simples e arquivos carregados em formatos suportados. Isso significa que você pode organizar e filtrar muitos tipos de conteúdo usando a mesma lógica de tag.
 
 # # Quando usá-lo
 
@@ -65,7 +65,7 @@ No formulário de conteúdo, adicione a tag que deseja usar, por exemplo`approve
 
 Esta tag está agora anexada a esse item KB específico.
 
-<figure><img src="/files/MEqXhT4Ti2B52yIynWlE" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/MEqXhT4Ti2B52yIynWlE.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}Passo 2: Abra a ação Perguntar Base de Conhecimento
@@ -83,7 +83,7 @@ Digite a mesma tag usada no conteúdo KB, por exemplo`approved`.
 
 Uma vez adicionada, a ação irá pesquisar apenas dentro do conteúdo marcado`approved`. O conteúdo sem essa tag será ignorado.
 
-<figure><img src="/files/3YJwHLo8ceNaE7gdwkVi" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/3YJwHLo8ceNaE7gdwkVi.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}Passo 4: Teste o fluxo
@@ -92,7 +92,7 @@ Agora teste o Agente de IA com uma pergunta que deve ser respondida a partir do 
 
 Se o item KB relevante tiver a etiqueta`approved`, pode ser usado na resposta. Se outro item KB não tiver essa tag, ela não será considerada.
 
-<figure><img src="/files/NREJo1cUq0CYKItPvbcE" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/NREJo1cUq0CYKItPvbcE.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}\
 Espero que ajude.

@@ -14,11 +14,11 @@ description: " Habilite notificações de push no Firefox(https://gethelp.chatca
 5. desmarque (se marcada) o **Bloquear novos pedidos para permitir notificações** caixa de seleção;
 6. selecione **Salvar alterações**.
 
-<figure><img src="/files/att9pMQ5YKCFGrCY000o" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/att9pMQ5YKCFGrCY000o.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="/files/cqKEvnFp0h0U4K4j82T7" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/cqKEvnFp0h0U4K4j82T7.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="/files/0xtuy7G6bA87oxKgD1Lr" alt=""><figcaption></figcaption></figure>**Related Firefox push Notificações solução de problemas **
+<figure><img src="/doc-images/0xtuy7G6bA87oxKgD1Lr.png" alt=""><figcaption></figcaption></figure>**Related Firefox push Notificações solução de problemas **
 
 [**Not hearing ChatCase push notifications in Firefox**](/docs/guia/notifications/not-hearing-chatcase-push-notifications-in-firefox)
 

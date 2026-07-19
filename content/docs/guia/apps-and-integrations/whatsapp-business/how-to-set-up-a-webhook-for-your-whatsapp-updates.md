@@ -21,7 +21,7 @@ Em seguida, clique em ** Adicionar Assinatura** para criar uma nova assinatura.
 
 Selecione no menu suspenso o evento ‘**Event Emit**’, digite seu endereço de endpoint webhook e clique em **Create Subscription**.
 
-<figure><img src="/files/4KoSXhYKUu5gkGuuV200" alt=""><figcaption></figcaption></figure>A partir de agora você receberá todos os eventos em seu webhook.
+<figure><img src="/doc-images/4KoSXhYKUu5gkGuuV200.png" alt=""><figcaption></figcaption></figure>A partir de agora você receberá todos os eventos em seu webhook.
 
 A fim de discriminar os eventos que dizem respeito a uma transmissão, basta adicionar no seu webhook o seguinte código:
 

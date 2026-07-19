@@ -7,7 +7,7 @@ Mensagens Proativas
 
 Uma Mensagem Proativa** é uma bolha de mensagem pequena e não-intrusiva que aparece em seu site para cumprimentar visitantes, compartilhar informações ou convidá-los a iniciar uma conversa — ** antes de decidirem abrir o widget de chat eles mesmos**.
 
-<figure><img src="/files/hZGkFwp8cLg507qUchk8" alt=""><figcaption></figcaption></figure>Em vez de esperar os usuários clicarem no ícone de chat, uma mensagem proativa ajuda você a dar o primeiro passo. Desta forma, seu assistente virtual parece mais acessível e disponível.
+<figure><img src="/doc-images/hZGkFwp8cLg507qUchk8.png" alt=""><figcaption></figcaption></figure>Em vez de esperar os usuários clicarem no ícone de chat, uma mensagem proativa ajuda você a dar o primeiro passo. Desta forma, seu assistente virtual parece mais acessível e disponível.
 
 ### Benefícios das Mensagens Proativas
 
@@ -28,9 +28,9 @@ Crie uma nova mensagem (texto, emoji ou breve saudação).
 
 Exemplo: “Oi, estou aqui se você precisar de alguma ajuda hoje!”
 
-<figure><img src="/files/noCQZWMV41SdMTIDLmhB" alt=""><figcaption></figcaption></figure>* Opcional* Você também pode usar o [**ChatGPT Task**](/docs/guia/ai-chatbots-and-automation/actions-explained/chatgpt-task) **action** para gerar dinamicamente uma mensagem proativa com base na página que o visitante está navegando (por exemplo, em uma página de preços: “Precisa de ajuda para escolher o plano certo?”).
+<figure><img src="/doc-images/noCQZWMV41SdMTIDLmhB.png" alt=""><figcaption></figcaption></figure>* Opcional* Você também pode usar o [**ChatGPT Task**](/docs/guia/ai-chatbots-and-automation/actions-explained/chatgpt-task) **action** para gerar dinamicamente uma mensagem proativa com base na página que o visitante está navegando (por exemplo, em uma página de preços: “Precisa de ajuda para escolher o plano certo?”).
 
-<figure><img src="/files/Pmxj6krRlPhiWXVJaOvS" alt=""><figcaption></figcaption></figure>Guarda a mensagem.
+<figure><img src="/doc-images/Pmxj6krRlPhiWXVJaOvS.png" alt=""><figcaption></figcaption></figure>Guarda a mensagem.
 
 # # # 2. Adicione uma regra
 
@@ -38,7 +38,7 @@ No menu do lado esquerdo, clique em ** Regras**.
 
 Clique em ** Adicionar nova regra**.
 
-<figure><img src="/files/YUvDVE7mMIYYlUAn0akG" alt=""><figcaption></figcaption></figure>3. Configurar a Regra
+<figure><img src="/doc-images/YUvDVE7mMIYYlUAn0akG.png" alt=""><figcaption></figcaption></figure>3. Configurar a Regra
 
 No editor de regras pop-up:
 
@@ -47,7 +47,7 @@ No editor de regras pop-up:
 * ** Freqüência:** Definir quantas vezes o mesmo usuário verá a mensagem (por exemplo, uma vez a cada 24 horas).
 * **Action:** Selecione a mensagem proativa que você criou no Design Studio.
 
-<figure><img src="/files/Bf6GGraTVt03R8mnMoc4" alt=""><figcaption></figcaption></figure># # # # 4. Salvar e testar
+<figure><img src="/doc-images/Bf6GGraTVt03R8mnMoc4.png" alt=""><figcaption></figcaption></figure># # # # 4. Salvar e testar
 
 Clique em **Adicionar regra** e depois testá-lo em seu site. Você deve ver a mensagem proativa aparecer de acordo com suas configurações.
 

@@ -7,7 +7,7 @@ Tabelas de dados
 
 # # Introdução
 
-<figure><img src="/files/i3QJ0vlsR3ZLKPXPCfUm" alt=""><figcaption></figcaption></figure>Tabelas de dados é um recurso ChatCase (atualmente em BETA) que permite criar tabelas simples e estruturadas de dados diretamente dentro do ChatCase Design Studio e usá-los como um banco de dados leve para seus fluxos de chatbot. Cada tabela é composta de colunas e linhas digitadas, semelhantes a uma planilha, e pode ser lida e escrita para enquanto uma conversa está sendo executada.
+<figure><img src="/doc-images/i3QJ0vlsR3ZLKPXPCfUm.png" alt=""><figcaption></figcaption></figure>Tabelas de dados é um recurso ChatCase (atualmente em BETA) que permite criar tabelas simples e estruturadas de dados diretamente dentro do ChatCase Design Studio e usá-los como um banco de dados leve para seus fluxos de chatbot. Cada tabela é composta de colunas e linhas digitadas, semelhantes a uma planilha, e pode ser lida e escrita para enquanto uma conversa está sendo executada.
 
 Tabelas de dados são projetadas para casos de uso onde um bot precisa persistir ou procurar pequenas quantidades de informações estruturadas sem se conectar a um banco de dados externo — por exemplo, armazenar registros de usuários coletados durante uma conversa, verificar se um e-mail já existe antes de criar um novo registro, manter uma FAQ simples ou catálogo de produtos, ou manter contadores e bandeiras entre sessões.
 
@@ -32,7 +32,7 @@ Para criar uma nova tabela:
 4. Use Adicionar coluna para adicionar colunas adicionais, ou o ícone × para remover uma.
 5. Clique no botão de confirmação para salvar e criar a tabela.
 
-<figure><img src="/files/AYajsEyKr3kEUrCgS8ju" alt=""><figcaption></figcaption></figure>**Nota**: Os tipos de colunas são forçados quando os dados são inseridos ou atualizados, então escolha o tipo que corresponde aos dados que você planeja armazenar (por exemplo, número para contadores, booleano para bandeiras, data para datas).
+<figure><img src="/doc-images/AYajsEyKr3kEUrCgS8ju.png" alt=""><figcaption></figcaption></figure>**Nota**: Os tipos de colunas são forçados quando os dados são inseridos ou atualizados, então escolha o tipo que corresponde aos dados que você planeja armazenar (por exemplo, número para contadores, booleano para bandeiras, data para datas).
 
 ## # Navegação e edição de dados da tabela
 
@@ -44,7 +44,7 @@ Uma vez criada, uma tabela aparece na lista “Your TABLES” à esquerda. Selec
 * Exclusão de linha - cada linha tem um ícone de lata de lixo para excluí-lo individualmente.
 * Atualizar e contador de linhas — um ícone de atualização e um contador “número total de linhas: X / 200” são mostrados acima da grade.
 
-<figure><img src="/files/QslWTwRNrqAAVzyMCFZx" alt=""><figcaption></figcaption></figure>Limite de armazenamento
+<figure><img src="/doc-images/QslWTwRNrqAAVzyMCFZx.png" alt=""><figcaption></figcaption></figure>Limite de armazenamento
 
 Existe uma tampa de armazenamento global de uma única Tabela de dados. Seu tamanho não pode exceder 30 MB. Este limite aplica-se ao tamanho combinado de todas as linhas e colunas na tabela, por isso vale a pena manter o conteúdo da coluna (especialmente strings longas) razoavelmente compacto, particularmente para tabelas que se espera que cresçam em direção à contagem máxima de linhas.
 
@@ -62,20 +62,20 @@ Cada Dados O bloco de tabela está configurado com os seguintes campos:
 * Atribuir resultado a — o nome da variável de fluxo que receberá o resultado da operação (por exemplo, dados\ table\ result).
 * Atribuir erro a — o nome da variável fluxo que receberá detalhes de erro se a operação falhar (por exemplo, erro).
 
-<figure><img src="/files/YgPgJ5xMLSraY0VDmR9G" alt=""><figcaption></figcaption></figure>Cada bloco expõe dois caminhos de saída, mostrados na borda direita do bloco:
+<figure><img src="/doc-images/YgPgJ5xMLSraY0VDmR9G.png" alt=""><figcaption></figcaption></figure>Cada bloco expõe dois caminhos de saída, mostrados na borda direita do bloco:
 
 * Sucesso — seguido quando a operação terminar com sucesso.
 * caso contrário — seguido quando a operação falhar ou nenhuma linha correspondente for encontrada.
 
 ## # Operações disponíveis
 
-<figure><img src="/files/h7qrHtlkNso81AJ56blt" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="/doc-images/h7qrHtlkNso81AJ56blt.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><strong>Operação</strong></td><td valign="top"><strong>Objecto</strong></td></tr><tr><td valign="top">Vai-te embora.</td><td valign="top">Obtém uma ou mais linhas da tabela que correspondem às condições de Match especificadas. Uso típico: verifique se já existe um registro (por exemplo, um usuário por nome ou e-mail).</td></tr><tr><td valign="top">Inserir</td><td valign="top">Adiciona uma nova linha à tabela com os valores da coluna indicados, sem verificar as correspondências existentes.</td></tr><tr><td valign="top">atualizar</td><td valign="top">Modifica os valores das colunas das linhas existentes que correspondem às condições de Corresponder.</td></tr><tr><td valign="top">Sobremesa</td><td valign="top">Atualiza a linha correspondente se existir, ou insere uma nova linha se nenhuma correspondência for encontrada — útil para “criar ou atualizar” a lógica em um único passo.</td></tr><tr><td valign="top">Apagar</td><td valign="top">Remove as linhas que correspondem às condições de correspondência indicadas.</td></tr></tbody></table>## # Exemplo: procurar e inserir usuários
 
 Um padrão comum combina um bloco Get com um bloco Inserir para evitar a criação de registros duplicados. Por exemplo, um fluxo pode:
 
-<figure><img src="/files/CWK4UkCMVU52k96sHfWd" alt=""><figcaption></figcaption></figure>1. Use um bloco de tabela de dados com Operação = Obter na tabela Usuários, combinando a coluna Nome (Equal) com um valor como o nome do visitante, e armazenar o resultado em dados\ table\ result.
+<figure><img src="/doc-images/CWK4UkCMVU52k96sHfWd.png" alt=""><figcaption></figcaption></figure>1. Use um bloco de tabela de dados com Operação = Obter na tabela Usuários, combinando a coluna Nome (Equal) com um valor como o nome do visitante, e armazenar o resultado em dados\ table\ result.
 2. No caminho do sucesso, envie uma mensagem de confirmação como “O usuário encontrou!” (opcionalmente oferecendo ações de acompanhamento).
 3. Em paralelo ou como um backback, use um segundo bloco de Tabela de dados com Operação = Inserir na mesma tabela para adicionar uma nova linha (por exemplo, através de um botão "Adicionar usuário" no chat), armazenando o resultado na mesma ou uma variável de resultado diferente.
 4. No caminho de sucesso do bloco Inserir, envie uma mensagem de confirmação como “User add!” para que o visitante saiba que o registro foi criado.

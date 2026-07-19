@@ -10,7 +10,7 @@ Introdução<a href="#intro" id="intro"></a>O ChatCase fornece uma maneira simpl
 1. **Navigue para o chat** você deseja gerenciar a partir de sua lista de conversas ativas.
 2. Na barra lateral ** direita do chat, você verá um painel exibindo informações adicionais sobre o usuário (como nome e e-mail) e os detalhes do chat.
 
-<figure><img src="/files/YPW0v73HaZQqxWUWUBOf" alt=""><figcaption></figcaption></figure>**Passo 2: Acesse o Menu Descer**
+<figure><img src="/doc-images/YPW0v73HaZQqxWUWUBOf.png" alt=""><figcaption></figcaption></figure>**Passo 2: Acesse o Menu Descer**
 
 1. No canto ** superior-direita ** deste painel, há três pontos ("".
 2. **Clique nos três pontos** para abrir um menu suspenso com as seguintes opções:
@@ -21,7 +21,7 @@ Introdução<a href="#intro" id="intro"></a>O ChatCase fornece uma maneira simpl
 * Transcrição
 * Ban visitor
 
-<figure><img src="/files/oGExcqXIvPs34IFe7yBK" alt=""><figcaption></figcaption></figure>**Passo 3a: Reatribuir o Chat a um companheiro de equipe**[**#**](https://gethelp.chatcase.com/articles/how-to-assign-or-add-a-teammate/#step-3a-reassign-the-chat-to-a-teammate)
+<figure><img src="/doc-images/oGExcqXIvPs34IFe7yBK.png" alt=""><figcaption></figcaption></figure>**Passo 3a: Reatribuir o Chat a um companheiro de equipe**[**#**](https://gethelp.chatcase.com/articles/how-to-assign-or-add-a-teammate/#step-3a-reassign-the-chat-to-a-teammate)
 
 ** Selecione "Reatribuir"** no menu suspenso.
 
@@ -31,7 +31,7 @@ Você verá uma **lista de seus companheiros de equipe**.
 
 > **Nota Importante: ** Uma vez que você reatribuir o chat, você será ** removido da conversa** e não o verá mais em sua lista de chats abertos.
 
-<figure><img src="/files/kHWm7YFrgwq5YPjqERkw" alt=""><figcaption></figcaption></figure>**Passo 3b: Adicione um companheiro de equipe ao bate-papo**
+<figure><img src="/doc-images/kHWm7YFrgwq5YPjqERkw.png" alt=""><figcaption></figcaption></figure>**Passo 3b: Adicione um companheiro de equipe ao bate-papo**
 
 ** Selecione "Adicionar companheiro de equipe"** no menu suspenso.
 

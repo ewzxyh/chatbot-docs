@@ -11,11 +11,11 @@ Mas como você pode ter certeza de que há um agente disponível antes de entreg
 
 Quando você deseja usar a ação “[Agent Handoff](/docs/guia/ai-chatbots-and-automation/quick-start/how-to-transfer-my-chatbot-to-a-live-agent)”, é muito útil usar “**If Online Agent**” antes, como você pode ver na imagem abaixo.
 
-<figure><img src="/files/CkISP6RQCl5JF3pbPSN0" alt=""><figcaption></figcaption></figure>Ao clicar no "Se Online Agent", você também pode definir um departamento específico ou mantê-lo como o padrão "Projeto Amplo".
+<figure><img src="/doc-images/CkISP6RQCl5JF3pbPSN0.png" alt=""><figcaption></figcaption></figure>Ao clicar no "Se Online Agent", você também pode definir um departamento específico ou mantê-lo como o padrão "Projeto Amplo".
 
-<figure><img src="/files/k4Nypu31YHWDBU2VVCUD" alt=""><figcaption></figcaption></figure>Finalmente, do endpoint verde, o que significa que existe um ** agente humano disponível**, continue o fluxo para “Agent Handoff”, e do endpoint vermelho, direto para a mensagem offline, como você pode ver na imagem abaixo:
+<figure><img src="/doc-images/k4Nypu31YHWDBU2VVCUD.png" alt=""><figcaption></figcaption></figure>Finalmente, do endpoint verde, o que significa que existe um ** agente humano disponível**, continue o fluxo para “Agent Handoff”, e do endpoint vermelho, direto para a mensagem offline, como você pode ver na imagem abaixo:
 
-<figure><img src="/files/hrpJIN4segO1vgT7DADT" alt=""><figcaption></figcaption></figure>\
+<figure><img src="/doc-images/hrpJIN4segO1vgT7DADT.png" alt=""><figcaption></figcaption></figure>\
 Você também pode[ **definir as horas de funcionamento**](/docs/guia/manage-your-workspace/define-the-operating-hours) e [**criar departamentos diferentes**](/docs/guia/manage-your-workspace/creating-a-department) específicos para o seu negócio.
 
 Espero que isto ajude.

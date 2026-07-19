@@ -18,7 +18,7 @@ No final do fluxo, ChatCase pode:
 
 Esta abordagem ajuda as equipes a extrair valor de conversas que de outra forma acabariam sem qualquer sinal estruturado.
 
-<figure><img src="/files/1gUOupzVuEf5Pid24U1f" alt=""><figcaption></figcaption></figure># # O que este fluxo de trabalho faz
+<figure><img src="/doc-images/1gUOupzVuEf5Pid24U1f.png" alt=""><figcaption></figcaption></figure># # O que este fluxo de trabalho faz
 
 Quando uma conversa é fechada, o fluxo de trabalho desencadeia uma etapa de IA que lê a transcrição da conversa.
 
@@ -108,7 +108,7 @@ Por exemplo:
 
 Isso permite que você reutilize a saída mais tarde em automação de análise, filtragem e acompanhamento.
 
-<figure><img src="/files/2fD8MFfJjfNIwFF3VaRh" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/2fD8MFfJjfNIwFF3VaRh.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}### Passo 6: Aplicar tags automaticamente
@@ -124,9 +124,9 @@ Você pode usar uma destas categorias:
 
 Este passo transforma a análise de sentimentos em algo operacional, não apenas descritivo.
 
-<figure><img src="/files/VzCFsuSyOCkvUVVarrQV" alt=""><figcaption></figcaption></figure>Depois de aplicar tags automaticamente, você pode ir para o ChatCase Analytics e visualizar conversas junto com as tags relacionadas de uma forma simples.
+<figure><img src="/doc-images/VzCFsuSyOCkvUVVarrQV.png" alt=""><figcaption></figcaption></figure>Depois de aplicar tags automaticamente, você pode ir para o ChatCase Analytics e visualizar conversas junto com as tags relacionadas de uma forma simples.
 
-<figure><img src="/files/uAM9ZtYesaQPvzvBGokL" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/uAM9ZtYesaQPvzvBGokL.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}# # Exemplo simples para classificação de categoria
 

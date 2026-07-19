@@ -10,9 +10,9 @@ Para ** habilitar** notificações você simplesmente precisa:
 * Clique no ícone **lock** (posicionado ao lado da barra url) - uma janela aparecerá.
 * Alternar as suas notificações de ** para **receber** **Notificações de ChatCase no navegador**
 
-<figure><img src="/files/vqen962aTTE52OtNfEVb" alt=""><figcaption></figcaption></figure>Na mesma janela pop up, você pode alternar suas notificações ** se você ** já não quiser receber** Notificações da plataforma no navegador
+<figure><img src="/doc-images/vqen962aTTE52OtNfEVb.png" alt=""><figcaption></figcaption></figure>Na mesma janela pop up, você pode alternar suas notificações ** se você ** já não quiser receber** Notificações da plataforma no navegador
 
-<figure><img src="/files/PLdxpydaDegzzafqNPQA" alt=""><figcaption></figcaption></figure>[**Não receber notificações de push do ChatCase no Google Chrome**](/docs/guia/notifications/not-receiving-chatcase-push-notifications-in-google-chrome-on-mac)
+<figure><img src="/doc-images/PLdxpydaDegzzafqNPQA.png" alt=""><figcaption></figcaption></figure>[**Não receber notificações de push do ChatCase no Google Chrome**](/docs/guia/notifications/not-receiving-chatcase-push-notifications-in-google-chrome-on-mac)
 
 [**Not hearing ChatCase push notifications in Google Chrome**](/docs/guia/notifications/not-hearing-chatcase-push-notifications-in-google-chrome)
 

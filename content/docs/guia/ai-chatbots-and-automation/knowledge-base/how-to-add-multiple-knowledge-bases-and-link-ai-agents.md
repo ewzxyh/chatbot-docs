@@ -3,7 +3,7 @@ title: "Como adicionar várias bases de conhecimento & link AI Agents"
 description: " Organização: Separe diferentes tipos de conteúdo, como FAQs, documentação técnica e informações específicas do produto. AI Agent-Specific Knowledge: Assegure-se de que cada agente"
 ---
 
-<figure><img src="/files/3ZIjvSnDJQyJAZTWhse9" alt=""><figcaption></figcaption></figure>Em ChatCase, você tem a flexibilidade para gerenciar várias Bases de Conhecimento (KBs) usando namespaces. Este recurso é incrivelmente útil para organizar diferentes conjuntos de informações e garantir que agentes de IA específicos tenham acesso aos dados relevantes. Este tutorial irá guiá-lo através do processo de criação e gerenciamento de vários namespaces para suas Bases de Conhecimento em ChatCase.
+<figure><img src="/doc-images/3ZIjvSnDJQyJAZTWhse9.png" alt=""><figcaption></figcaption></figure>Em ChatCase, você tem a flexibilidade para gerenciar várias Bases de Conhecimento (KBs) usando namespaces. Este recurso é incrivelmente útil para organizar diferentes conjuntos de informações e garantir que agentes de IA específicos tenham acesso aos dados relevantes. Este tutorial irá guiá-lo através do processo de criação e gerenciamento de vários namespaces para suas Bases de Conhecimento em ChatCase.
 
 #### **Posição de múltiplos espaços de nomes#
 
@@ -17,7 +17,7 @@ Passo 1: Entre no ChatCase e navegue para a seção Fluxos<a href="#step-1-log-i
 
 Passo 2: Compreender o espaço de nomes padrão<a href="#step-2-understanding-the-default-namespace" id="step-2-understanding-the-default-namespace"></a>Na nova página, você verá a lista de bases de conhecimento do lado esquerdo. Por padrão, você tem uma base de conhecimento pronta para ser povoada, mas você pode adicionar mais.
 
-<figure><img src="/files/H9WnH0lmfyPedbdPuVJH" alt=""><figcaption></figcaption></figure>Gerenciando várias bases de conhecimento<a href="#managing-multiple-knowledge-bases" id="managing-multiple-knowledge-bases"></a>####**1. Mudando o Nome da Base de Conhecimento (o**ptiona&#x6C;**)**
+<figure><img src="/doc-images/H9WnH0lmfyPedbdPuVJH.png" alt=""><figcaption></figcaption></figure>Gerenciando várias bases de conhecimento<a href="#managing-multiple-knowledge-bases" id="managing-multiple-knowledge-bases"></a>####**1. Mudando o Nome da Base de Conhecimento (o**ptiona&#x6C;**)**
 
 **Purpose**: Renomear o espaço de nomes padrão para refletir melhor seu conteúdo.\
 ** Como Mudar**:&#x20;
@@ -36,9 +36,9 @@ A adicionar uma nova base de conhecimento
 
 Nota, você pode construir um padrão ou [Hybrid search](/docs/guia/ai-chatbots-and-automation/knowledge-base/hybrid-search) motor. [Você pode ler mais sobre isso aqui] (https://chatcase.com/blog/chatcase-hybrid-search-rag-architecture/).
 
-<figure><img src="/files/OlwG0JiNnMd8zkVXzN9N" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/OlwG0JiNnMd8zkVXzN9N.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="/files/c2durWjK8mHczS7PC5hE" alt="" width="375"><figcaption></figcaption></figure>**3. Visualização e Mudança Entre Bases de Conhecimento **
+<figure><img src="/doc-images/c2durWjK8mHczS7PC5hE.png" alt="" width="375"><figcaption></figcaption></figure>**3. Visualização e Mudança Entre Bases de Conhecimento **
 
 **Purpose**: Navegue facilmente entre diferentes namespaces para gerenciar ou visualizar seu conteúdo.\
 ** Como alternar:**
@@ -47,21 +47,21 @@ Nota, você pode construir um padrão ou [Hybrid search](/docs/guia/ai-chatbots-
 * O conteúdo e a configuração do espaço de nomes selecionado serão exibidos
 * Além disso, você pode ver qual agente de IA está conectado a esta Base de Conhecimento
 
-<figure><img src="/files/tOmRpUccgi5lf3xf5YGP" alt=""><figcaption></figcaption></figure>Excluindo espaços de nomes<a href="#deleting-namespaces" id="deleting-namespaces"></a>Para esvaziar todo o espaço de nomes, basta clicar no botão Remover vermelho, como mostrado abaixo. &# x20;
+<figure><img src="/doc-images/tOmRpUccgi5lf3xf5YGP.png" alt=""><figcaption></figcaption></figure>Excluindo espaços de nomes<a href="#deleting-namespaces" id="deleting-namespaces"></a>Para esvaziar todo o espaço de nomes, basta clicar no botão Remover vermelho, como mostrado abaixo. &# x20;
 
 Você também pode optar por remover o namespace completamente marcando a caixa "Também excluir a Base de Conhecimento".
 
-<figure><img src="/files/A3l47B8vW3KDMdcXhlWR" alt=""><figcaption></figcaption></figure>**Atribuir agentes de IA às bases de conhecimento **
+<figure><img src="/doc-images/A3l47B8vW3KDMdcXhlWR.png" alt=""><figcaption></figcaption></figure>**Atribuir agentes de IA às bases de conhecimento **
 
 1\. Quando você selecionar um namespace específico, você verá qual Agente de IA está conectado a essa Base de Conhecimento em particular.
 
-<figure><img src="/files/4kvq9oLWsLlk5BsXADx2" alt=""><figcaption></figcaption></figure>\
+<figure><img src="/doc-images/4kvq9oLWsLlk5BsXADx2.png" alt=""><figcaption></figcaption></figure>\
 2\. Para atribuir um Agente de IA a uma base de conhecimento diferente:\
 &# x20; \- Vá para a seção ** Fluxos**.\
 &# x20; \- Selecione o Agente de IA que deseja configurar.\
 &#x20; \- Nos fluxos de agentes, escolha o [Block](/docs/guia/ai-chatbots-and-automation/visual-builder-101/how-to-create-a-block) apropriado com a funcionalidade [Ask Knowledge Base](/docs/guia/ai-chatbots-and-automation/actions-explained/ask-knowledge-base) contendo o espaço de nomes ligado.
 
-<figure><img src="/files/EEfQl8Pp5hiHm06mT1zF" alt=""><figcaption></figcaption></figure>### ** Melhores práticas para usar vários espaços de nomes
+<figure><img src="/doc-images/EEfQl8Pp5hiHm06mT1zF.png" alt=""><figcaption></figcaption></figure>### ** Melhores práticas para usar vários espaços de nomes
 
 \- **Categorizar por Tópico**: Criar espaços de nomes separados para diferentes tópicos ou departamentos para manter as informações organizadas.\
 \- **Agent-Specific KBs**: Atribuir Bases de Conhecimento específicas a agentes de IA projetados para funções específicas, garantindo que eles tenham acesso às informações mais relevantes.\

@@ -15,18 +15,18 @@ Você saberá se seu usuário está on-line ou offline de acordo com o indicador
 
 Basicamente, não você tem de fazer nada. Está tudo tratado automaticamente.
 
-<figure><img src="/files/KSOqfNnoKyPxdqvaILiR" alt=""><figcaption></figcaption></figure>A mensagem que enviou irá aparecer tanto no chat ao vivo como na caixa de entrada do seu usuário/cliente, como abaixo.
+<figure><img src="/doc-images/KSOqfNnoKyPxdqvaILiR.png" alt=""><figcaption></figcaption></figure>A mensagem que enviou irá aparecer tanto no chat ao vivo como na caixa de entrada do seu usuário/cliente, como abaixo.
 
 O usuário terá uma escolha se deve continuar a conversa por e-mail ou voltar para o chat ao vivo.
 
-<figure><img src="/files/FH4XHsHpeiPvhrL6nbWW" alt=""><figcaption></figcaption></figure>**Manualmente redigir um e-mail personalizado **
+<figure><img src="/doc-images/FH4XHsHpeiPvhrL6nbWW.jpg" alt=""><figcaption></figcaption></figure>**Manualmente redigir um e-mail personalizado **
 
 Se você, por outro lado, preferir enviar um e-mail mais personable com um assunto personalizado, basta clicar no ícone de E-mail e, em seguida, em Clique para editar.
 
-<figure><img src="/files/x482fA1gQzp0w3shXhAF" alt=""><figcaption></figcaption></figure>Depois de clicar para editar seu rascunho de email, você receberá uma janela pop-up, como abaixo. Você será capaz de personalizar o Assunto, ao contrário do gerado automaticamente ("Mensagem offline ChatCase", como acima).
+<figure><img src="/doc-images/x482fA1gQzp0w3shXhAF.png" alt=""><figcaption></figcaption></figure>Depois de clicar para editar seu rascunho de email, você receberá uma janela pop-up, como abaixo. Você será capaz de personalizar o Assunto, ao contrário do gerado automaticamente ("Mensagem offline ChatCase", como acima).
 
-<figure><img src="/files/gGLkvlyHjcnTkyBdffDu" alt=""><figcaption></figcaption></figure>Seu chat ao vivo mostrará seu email também como um texto, como mostrado abaixo.
+<figure><img src="/doc-images/gGLkvlyHjcnTkyBdffDu.png" alt=""><figcaption></figcaption></figure>Seu chat ao vivo mostrará seu email também como um texto, como mostrado abaixo.
 
-<figure><img src="/files/cg3OcXoY6z1RN4B8dPZn" alt=""><figcaption></figcaption></figure>Qualquer que seja a sua escolha entre um e-mail automático ou um e-mail desenhado manualmente, você pode ter certeza que você sempre vai chegar aos seus clientes - apenas certifique-se de obter o seu endereço de e-mail
+<figure><img src="/doc-images/cg3OcXoY6z1RN4B8dPZn.png" alt=""><figcaption></figcaption></figure>Qualquer que seja a sua escolha entre um e-mail automático ou um e-mail desenhado manualmente, você pode ter certeza que você sempre vai chegar aos seus clientes - apenas certifique-se de obter o seu endereço de e-mail
 
 Para quaisquer perguntas ou dúvidas escreva para[redacted@example.invalid](mailto:redacted@example.invalid)

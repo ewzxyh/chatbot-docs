@@ -10,7 +10,7 @@ Agora você pode desenvolver um assistente de vendas de IA que utiliza uma lista
 \
 Após observar os resultados iniciais, decidimos adicionar uma nova ação chamada “GPT Assistant” para permitir que você conecte seu agente de IA ao GPT Assistant para melhor desempenho com dados numéricos.
 
-<figure><img src="/files/CiXNACKTa6GvmulEJWGB" alt=""><figcaption></figcaption></figure>Explicamos anteriormente o uso da ação [**GPT Assistant-beta.md](/docs/guia/ai-chatbots-and-automation/actions-explained/chatgpt-assistant-beta) no ChatCase Design Studio.&#x20;
+<figure><img src="/doc-images/CiXNACKTa6GvmulEJWGB.png" alt=""><figcaption></figcaption></figure>Explicamos anteriormente o uso da ação [**GPT Assistant-beta.md](/docs/guia/ai-chatbots-and-automation/actions-explained/chatgpt-assistant-beta) no ChatCase Design Studio.&#x20;
 
 Este tutorial irá guiá-lo através da criação de seu assistente de IA no OpenAI.
 
@@ -18,21 +18,21 @@ Por favor, note que um plano personalizado do OpenAI é necessário para este tu
 
 Como criar um assistente de IA no OpenAI<a href="#how-to-create-an-ai-assistant-in-openai" id="how-to-create-an-ai-assistant-in-openai"></a>Visitar o OpenAI e navegar para «Produtos», em seguida «API».
 
-<figure><img src="/files/eq3nomIxMs583DzyKpVo" alt=""><figcaption></figcaption></figure>Entre e selecione «API».
+<figure><img src="/doc-images/eq3nomIxMs583DzyKpVo.png" alt=""><figcaption></figcaption></figure>Entre e selecione «API».
 
-<figure><img src="/files/i6MqjTZTGI43Yw1uP00d" alt=""><figcaption></figcaption></figure>Certifique-se de que está no Painel e clique em “Assistente” no menu lateral esquerdo.
+<figure><img src="/doc-images/i6MqjTZTGI43Yw1uP00d.png" alt=""><figcaption></figcaption></figure>Certifique-se de que está no Painel e clique em “Assistente” no menu lateral esquerdo.
 
 Clique no botão verde "Criar" no canto superior direito.
 
-<figure><img src="/files/ZCPv2Bz4PZcEtuauUlp1" alt=""><figcaption></figcaption></figure>Nomeie seu assistente e forneça contexto na seção ‘Instruções’ para ajustar as respostas de seu assistente.
+<figure><img src="/doc-images/ZCPv2Bz4PZcEtuauUlp1.png" alt=""><figcaption></figcaption></figure>Nomeie seu assistente e forneça contexto na seção ‘Instruções’ para ajustar as respostas de seu assistente.
 
 Selecione o modelo; para este exemplo, estamos usando GPT-4o.
 
 Lembre-se, se você estiver carregando um arquivo CSV, é melhor usar um interpretador de código. Para arquivos PDF ou texto, use o recurso Pesquisa de arquivos.
 
-<figure><img src="/files/wl1e50mfBbmqLzLwYbMQ" alt=""><figcaption></figcaption></figure>Agora, copie o ID assistente e vá para o painel do ChatCase. Clique no bloco onde o ChatGPT Assistant é colocado, e no menu do lado direito, cole o ID assistente no campo “Atribuir Assistente GPT”.
+<figure><img src="/doc-images/wl1e50mfBbmqLzLwYbMQ.png" alt=""><figcaption></figcaption></figure>Agora, copie o ID assistente e vá para o painel do ChatCase. Clique no bloco onde o ChatGPT Assistant é colocado, e no menu do lado direito, cole o ID assistente no campo “Atribuir Assistente GPT”.
 
-<figure><img src="/files/4ydmJEPHGJtg62TrBXmO" alt=""><figcaption></figcaption></figure>É isso aí! Com a integração nativa da ChatCase com o OpenAI, seu agente de IA agora pode aproveitar as capacidades de um assistente de IA alimentado pelo GPT-4o
+<figure><img src="/doc-images/4ydmJEPHGJtg62TrBXmO.png" alt=""><figcaption></figcaption></figure>É isso aí! Com a integração nativa da ChatCase com o OpenAI, seu agente de IA agora pode aproveitar as capacidades de um assistente de IA alimentado pelo GPT-4o
 
 Espero que isto ajude.
 

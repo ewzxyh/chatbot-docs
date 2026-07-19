@@ -17,7 +17,7 @@ Primeiro, você precisa ativar "Ativar Horários Gerais de Abertura", definir o 
 
 Carregue em "Salvar".
 
-<figure><img src="/files/Z0PEAfENG4bkeyAogGEO" alt=""><figcaption></figcaption></figure>**Criar diferentes Fendas de Horas de Operação**
+<figure><img src="/doc-images/Z0PEAfENG4bkeyAogGEO.png" alt=""><figcaption></figcaption></figure>**Criar diferentes Fendas de Horas de Operação**
 
 Outra característica legal nesta seção é a capacidade de definir diferentes slots. Por exemplo, se sua equipe de suporte ao cliente trabalha em um fuso horário diferente, este recurso será muito útil. Com ele, você pode ter um espaço de tempo para sua equipe de suporte e outro para sua equipe de vendas.
 
@@ -25,17 +25,17 @@ Vamos criar um novo slot, e mais tarde vou mostrar-lhe como usá-lo no Design St
 
 Para adicionar o novo slot de tempo, clique na "cabeça de seta dupla" ao lado do título Geral, como você pode ver na imagem abaixo, e clique em "Nova Fenda". Escolha um nome para o novo slot e clique em "Criar".
 
-<figure><img src="/files/lmLNuQTEawkMNf5PrlMp" alt=""><figcaption></figcaption></figure>Como você pode ver, uma nova página de horas operacionais aparecerá onde você pode clicar em "Ativar Fenda de Tempo", e então selecione o fuso horário e dias e horas de trabalho específicos com base em suas necessidades.
+<figure><img src="/doc-images/lmLNuQTEawkMNf5PrlMp.png" alt=""><figcaption></figcaption></figure>Como você pode ver, uma nova página de horas operacionais aparecerá onde você pode clicar em "Ativar Fenda de Tempo", e então selecione o fuso horário e dias e horas de trabalho específicos com base em suas necessidades.
 
 Não se esqueça de salvar mudanças.
 
-<figure><img src="/files/Mz7q1bUFAlOlrFAvZpLU" alt=""><figcaption></figcaption></figure>Em seguida, volte para o Design Studio e use a ação “Se Hora de Operação” antes da ação [Transferência para um Humano](/docs/guia/ai-chatbots-and-automation/actions-explained/transfer-to-a-human)
+<figure><img src="/doc-images/Mz7q1bUFAlOlrFAvZpLU.png" alt=""><figcaption></figcaption></figure>Em seguida, volte para o Design Studio e use a ação “Se Hora de Operação” antes da ação [Transferência para um Humano](/docs/guia/ai-chatbots-and-automation/actions-explained/transfer-to-a-human)
 
-<figure><img src="/files/7EJ0YCMAkd4p6xwpA1Bt" alt=""><figcaption></figcaption></figure>Em seguida, clique no novo [Block](/docs/guia/ai-chatbots-and-automation/visual-builder-101/how-to-create-a-block), e no menu superior direito, você tem a opção de clicar em "Selected Time Slot" para selecionar o "Support team slot" que acabamos de criar. Alternativamente, você pode simplesmente deixá-lo como padrão (Geral) se você não precisar de diferentes slots de tempo.
+<figure><img src="/doc-images/7EJ0YCMAkd4p6xwpA1Bt.png" alt=""><figcaption></figcaption></figure>Em seguida, clique no novo [Block](/docs/guia/ai-chatbots-and-automation/visual-builder-101/how-to-create-a-block), e no menu superior direito, você tem a opção de clicar em "Selected Time Slot" para selecionar o "Support team slot" que acabamos de criar. Alternativamente, você pode simplesmente deixá-lo como padrão (Geral) se você não precisar de diferentes slots de tempo.
 
-<figure><img src="/files/Ny4j73ETWsRvOEIamosQ" alt=""><figcaption></figcaption></figure>A partir do endpoint verde, continue o fluxo para “Agent Handoff” e do endpoint vermelho para a mensagem offline, como você pode ver na imagem abaixo.
+<figure><img src="/doc-images/Ny4j73ETWsRvOEIamosQ.png" alt=""><figcaption></figcaption></figure>A partir do endpoint verde, continue o fluxo para “Agent Handoff” e do endpoint vermelho para a mensagem offline, como você pode ver na imagem abaixo.
 
-<figure><img src="/files/s0q6SSzE4tGy5uWbUxsP" alt=""><figcaption></figcaption></figure>Espero que isto ajude.
+<figure><img src="/doc-images/s0q6SSzE4tGy5uWbUxsP.png" alt=""><figcaption></figcaption></figure>Espero que isto ajude.
 
 Não hesite em entrar em contato-nos caso precise de assistência adicional em [**redacted@example.invalid**](mailto:redacted@example.invalid).
 

@@ -7,7 +7,7 @@ Este tutorial explica como conectar uma loja Shopify a um Agente de IA ChatCase 
 
 Com essa configuração, seu Agente de IA pode acessar ferramentas de storefront para suportar conversas de ecommerce. Ele pode ajudar os usuários a pesquisar produtos, receber recomendações de produtos, adicionar itens selecionados ao carrinho e continuar a checkout.
 
-<figure><img src="/files/1sxWolfmtzaL1ROp6F6i" alt=""><figcaption></figcaption></figure># # O que este fluxo de trabalho faz
+<figure><img src="/doc-images/1sxWolfmtzaL1ROp6F6i.png" alt=""><figcaption></figcaption></figure># # O que este fluxo de trabalho faz
 
 No final deste guia, você terá um Agente de IA ChatCase conectado à sua loja Shopify através do MCP.
 
@@ -84,7 +84,7 @@ Abra o bloco onde o AI Agent deve responder a perguntas abertas do usuário e ad
 
 Em muitos fluxos, este é o bloco **defaultFallback**.
 
-<figure><img src="/files/hDN8720JxY1ILFgs2c9X" alt=""><figcaption></figcaption></figure>1. Clique no bloco.
+<figure><img src="/doc-images/hDN8720JxY1ILFgs2c9X.gif" alt=""><figcaption></figcaption></figure>1. Clique no bloco.
 2. Espere que o painel de configuração do lado direito abra.
 3. Colar o prompt abaixo no campo prompt.
 
@@ -120,7 +120,7 @@ Full conversation: {{transcript}}
 
 Dentro da configuração do Prompt de IA, conecte seu servidor MCP Shopify como uma ferramenta.
 
-<figure><img src="/files/ciTOQAi2x72mAEmnv1yT" alt=""><figcaption></figcaption></figure>1. Clique em **Select MCP tools**.
+<figure><img src="/doc-images/ciTOQAi2x72mAEmnv1yT.gif" alt=""><figcaption></figcaption></figure>1. Clique em **Select MCP tools**.
 2. Clique em **Adicionar ferramenta de servidor MCP**.
 3. Colar sua URL do servidor MCP Shopify no campo URL.
 4. Dê ao servidor MCP um nome limpo, por exemplo **Shopify Storefront MCP**.
@@ -128,7 +128,7 @@ Dentro da configuração do Prompt de IA, conecte seu servidor MCP Shopify como 
 
 Depois que a conexão é criada, um botão azul rotulado **Select tools** deve aparecer.
 
-<figure><img src="/files/Ht4GQcHyYihV1aLKJn8b" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/Ht4GQcHyYihV1aLKJn8b.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}Escolha as ferramentas do Shopify
@@ -137,9 +137,9 @@ Clique em **Selecione ferramentas** e habilite as ferramentas MCP Shopify dispon
 
 Alternar para as ferramentas que deseja que o Agente de IA use, em seguida, clique em **Fechar**.
 
-<figure><img src="/files/0cQsaGOYKEBkYmElHeck" alt=""><figcaption></figcaption></figure>Certifique-se de que o servidor MCP está incluído na lista de ferramentas disponíveis.
+<figure><img src="/doc-images/0cQsaGOYKEBkYmElHeck.png" alt=""><figcaption></figcaption></figure>Certifique-se de que o servidor MCP está incluído na lista de ferramentas disponíveis.
 
-<figure><img src="/files/oYyNAutM9MIncYlJUiXc" alt=""><figcaption></figcaption></figure>Além disso, adicione um novo [Reply Action](/docs/guia/ai-chatbots-and-automation/actions-explained/reply-action) com um`ai-reply`atributo nele.
+<figure><img src="/doc-images/oYyNAutM9MIncYlJUiXc.png" alt=""><figcaption></figcaption></figure>Além disso, adicione um novo [Reply Action](/docs/guia/ai-chatbots-and-automation/actions-explained/reply-action) com um`ai-reply`atributo nele.
 {% endstep %}
 {% endstepper %}Teste o agente de IA
 
@@ -152,7 +152,7 @@ Abra a pré-visualização e faça perguntas com base nos produtos disponíveis 
 * Mostre-me seus melhores produtos para o verão
 * Adicionar o segundo produto ao meu carrinho
 
-<figure><img src="/files/XNrmxhZT87hbUceFn4u3" alt=""><figcaption></figcaption></figure>Durante o teste, verifique se o Agente de IA pode ler as informações disponíveis da loja, recomendar produtos relevantes e orientar o usuário para o checkout.
+<figure><img src="/doc-images/XNrmxhZT87hbUceFn4u3.gif" alt=""><figcaption></figcaption></figure>Durante o teste, verifique se o Agente de IA pode ler as informações disponíveis da loja, recomendar produtos relevantes e orientar o usuário para o checkout.
 
 Se você quiser alterar o comportamento, atualize o prompt no AI Prompt ação e teste novamente.
 

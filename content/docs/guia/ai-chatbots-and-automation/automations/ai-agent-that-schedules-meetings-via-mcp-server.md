@@ -7,7 +7,7 @@ Este tutorial explica como construir um Agente de IA em ChatCase que pode agenda
 
 O objetivo é criar um fluxo simples onde o agente coleta detalhes de reserva durante a conversa, verifica a disponibilidade no Google Calendar e cria a reunião diretamente quando um slot é gratuito.
 
-<figure><img src="/files/GxrJMy1sAeXZYo6UTvLw" alt=""><figcaption></figcaption></figure># # O que este fluxo de trabalho faz
+<figure><img src="/doc-images/GxrJMy1sAeXZYo6UTvLw.png" alt=""><figcaption></figcaption></figure># # O que este fluxo de trabalho faz
 
 No final desta instalação, o seu agente de IA poderá:
 
@@ -40,7 +40,7 @@ Este fluxo pode permanecer muito simples e incluir apenas 3 blocos:
 
 Esta estrutura é suficiente para construir uma primeira versão de trabalho do assistente de agendamento.
 
-<figure><img src="/files/DUwlHs9uIXHZ1HybIQjo" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/DUwlHs9uIXHZ1HybIQjo.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}# # # Adicione a mensagem de boas-vindas
@@ -53,7 +53,7 @@ Olá, posso ajudar-te a marcar uma reunião. Para começar, só preciso de algun
 
 Isso torna o ponto de entrada claro e prepara o usuário para o próximo passo.
 
-<figure><img src="/files/27jQleBVaRVNzQksm7BS" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/27jQleBVaRVNzQksm7BS.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}### Configure o bloco AI Prompt
@@ -77,7 +77,7 @@ Neste bloco, o seu agente de IA deve:
 
 O bloco AI Prompt também é onde você conecta o servidor MCP do Google Calendar, para que o AI Agent possa passar de conversação para ação na mesma etapa.
 
-<figure><img src="/files/27jQleBVaRVNzQksm7BS" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/27jQleBVaRVNzQksm7BS.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}# # # Adicione o bloco de resposta de IA

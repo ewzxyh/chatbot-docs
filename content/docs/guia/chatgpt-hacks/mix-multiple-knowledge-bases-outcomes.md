@@ -15,7 +15,7 @@ Como misturar muitos KBs para fornecer as melhores respostas? Usem engenharia r�
 
 Em ChatCase temos nossa Central de Ajuda (<https://gethelp.chatcase.com/>) que indexamos para cunssulting ao vivo através do nosso chatbot na nossa página inicial:
 
-<figure><img src="/files/emm38H54SDKA7kAkVdxh" alt=""><figcaption></figcaption></figure>Pode perguntar tudo o que encontrar na Central de Ajuda ao nosso chatbot. O nosso motor RAG fornecer-lhe-á a melhor resposta disponível usando a ação Base de Conhecimento preenchida usando o mapa do site ChatCase ("<https://gethelp.chatcase.com/sitemap.xml>" carregado com o recurso "sitemap" do KB).
+<figure><img src="/doc-images/emm38H54SDKA7kAkVdxh.png" alt=""><figcaption></figcaption></figure>Pode perguntar tudo o que encontrar na Central de Ajuda ao nosso chatbot. O nosso motor RAG fornecer-lhe-á a melhor resposta disponível usando a ação Base de Conhecimento preenchida usando o mapa do site ChatCase ("<https://gethelp.chatcase.com/sitemap.xml>" carregado com o recurso "sitemap" do KB).
 
 O que acontece quando queremos adicionar algum conteúdo adicional em nossa Central de Ajuda, mas sem modificá-lo ou atualizá-lo?
 
@@ -23,23 +23,23 @@ Você pode simplesmente adicionar outra ação Base de Conhecimento no fluxo. No
 
 Suponhamos que queremos que nosso chatbot também responda a algumas perguntas de engenharia rápida, apesar do fato de que este curso não está disponível em nossa Central de Ajuda. Podemos adicionar todo o conteúdo do curso em um KB específico criado para o pourpose.
 
-<figure><img src="/files/XHwLBb31eZ8HzY4vXYju" alt=""><figcaption></figcaption></figure>Bem, agora queremos obter respostas de ambos os nossos KBs, ChatCase Help Center e curso de engenharia Prompt. Passe para o nosso designer. Coloque em corrente os dois KBs como na imagem seguinte.
+<figure><img src="/doc-images/XHwLBb31eZ8HzY4vXYju.png" alt=""><figcaption></figcaption></figure>Bem, agora queremos obter respostas de ambos os nossos KBs, ChatCase Help Center e curso de engenharia Prompt. Passe para o nosso designer. Coloque em corrente os dois KBs como na imagem seguinte.
 
-<figure><img src="/files/MmnlLSUYvi56IMLwCvni" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/MmnlLSUYvi56IMLwCvni.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="/files/qX4QJTEbBTUa1dF7YRn5" alt=""><figcaption></figcaption></figure>Não há necessidade de conectar os fluxos de sucesso e outros. Quando nenhum conector é definido as Ações são executadas, os atributos povoados (kb1 e kb2) e o fluxo continua para cima → para baixo. Quando um conector é encontrado ele será automaticamente seguido.
+<figure><img src="/doc-images/qX4QJTEbBTUa1dF7YRn5.png" alt=""><figcaption></figcaption></figure>Não há necessidade de conectar os fluxos de sucesso e outros. Quando nenhum conector é definido as Ações são executadas, os atributos povoados (kb1 e kb2) e o fluxo continua para cima → para baixo. Quando um conector é encontrado ele será automaticamente seguido.
 
 Durante o atributo fluxo kb1 será cumprida com a resposta eventualmente vindo da primeira consulta KB (chatcase), e kb2 com a resposta do segundo (prompt curso de engenharia). Neste ponto temos 2 atributos disponíveis, eventualmente povoados com algum conteúdo (dependendo da pergunta do usuário feita durante o fluxo runinng).
 
 Aqui é onde a magin acontece. Criar um novo bloco com a tarefa GPT, com o seguinte prompt, que irá misturar ambas as respostas, gerando as melhores respostas misturando os atributos kb1 e kb2:
 
-<figure><img src="/files/0AMj42aYRHvqC2RDxFgs" alt=""><figcaption></figcaption></figure>Este é todo o fluxo:
+<figure><img src="/doc-images/0AMj42aYRHvqC2RDxFgs.png" alt=""><figcaption></figcaption></figure>Este é todo o fluxo:
 
-<figure><img src="/files/tejzpBGYQy8fvfRTsY1p" alt=""><figcaption></figcaption></figure>Como é que funciona? Basta perguntar algo direcionado para a primeira ou segunda base de conhecimento, e o prompt fará a magia de misturar o conteúdo togheter. Eu pedi algumas informações sobre a engenharia Prompt e o chatbot recebeu corretamente a resposta do segundo KB (curso de engenharia prompt)
+<figure><img src="/doc-images/tejzpBGYQy8fvfRTsY1p.png" alt=""><figcaption></figcaption></figure>Como é que funciona? Basta perguntar algo direcionado para a primeira ou segunda base de conhecimento, e o prompt fará a magia de misturar o conteúdo togheter. Eu pedi algumas informações sobre a engenharia Prompt e o chatbot recebeu corretamente a resposta do segundo KB (curso de engenharia prompt)
 
-<figure><img src="/files/slWa2y18pxxMYZ2BWBxI" alt=""><figcaption></figcaption></figure>Então eu perguntei algo sobre ChatCase, e a base de conhecimento "chatcase" respondeu de acordo:
+<figure><img src="/doc-images/slWa2y18pxxMYZ2BWBxI.png" alt=""><figcaption></figcaption></figure>Então eu perguntei algo sobre ChatCase, e a base de conhecimento "chatcase" respondeu de acordo:
 
-<figure><img src="/files/9x3tpRYIy5Lnjzd9GRg4" alt=""><figcaption></figcaption></figure>Nós também introduzimos um erro de digitação, só para mostrar o quão grandes são LLMs : )
+<figure><img src="/doc-images/9x3tpRYIy5Lnjzd9GRg4.png" alt=""><figcaption></figcaption></figure>Nós também introduzimos um erro de digitação, só para mostrar o quão grandes são LLMs : )
 
 Este é o prompt que usamos:
 

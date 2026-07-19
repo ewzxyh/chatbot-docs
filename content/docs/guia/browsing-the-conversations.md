@@ -7,7 +7,7 @@ Secção de monitorização: paradeiro e propósito<a href="#monitor-section-whe
 
 Esta seção é fácil de digitalizar, pois lhe dá uma visão geral rápida de quantos usuários e visitantes estão esperando por uma resposta. A lista de conversas mostra a última mensagem de um cliente, há quanto tempo eles estão esperando e se a conversa é atribuída a um agente ou não atribuída.
 
-<figure><img src="/files/2fLVtBfFglGDMkhDEAx6" alt=""><figcaption></figcaption></figure>A partir da lista de conversas você pode ver as seguintes informações:
+<figure><img src="/doc-images/2fLVtBfFglGDMkhDEAx6.png" alt=""><figcaption></figcaption></figure>A partir da lista de conversas você pode ver as seguintes informações:
 
 * ** Mensagem**: a primeira mensagem de conversação
 * **Pedido**: a informação do visitante

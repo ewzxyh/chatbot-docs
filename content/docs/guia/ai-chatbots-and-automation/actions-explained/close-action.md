@@ -16,19 +16,19 @@ Para este exemplo, usei uma ação “[Ask Knowledge Base](/docs/guia/ai-chatbot
 
 Como você pode ver na imagem abaixo:
 
-<figure><img src="/files/BXMjW2R4OzF8LyuOQmNm" alt=""><figcaption></figcaption></figure>Em seguida, conecte este botão à ação Fechar.
+<figure><img src="/doc-images/BXMjW2R4OzF8LyuOQmNm.png" alt=""><figcaption></figcaption></figure>Em seguida, conecte este botão à ação Fechar.
 
 No menu lateral esquerdo, você pode encontrar a ação Fechar. Basta deixá-lo algures na tela.
 
 Agora, você precisa conectar o botão a este novo bloco, como mostrado na imagem abaixo:
 
-<figure><img src="/files/JZ70709ETcvCJDKecVcM" alt=""><figcaption></figcaption></figure>Isso é tudo! A partir de agora, clicando neste botão, a conversa terminará.
+<figure><img src="/doc-images/JZ70709ETcvCJDKecVcM.png" alt=""><figcaption></figcaption></figure>Isso é tudo! A partir de agora, clicando neste botão, a conversa terminará.
 
 Vamos testá-lo juntos.
 
-<figure><img src="/files/vZAg4pGfggr9e3SE1Eaw" alt=""><figcaption></figcaption></figure>
+<figure><img src="/doc-images/vZAg4pGfggr9e3SE1Eaw.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="/files/P6aC8JrrBZMlIAfpfg3e" alt=""><figcaption></figcaption></figure>Espero que o tenha achado útil.
+<figure><img src="/doc-images/P6aC8JrrBZMlIAfpfg3e.png" alt=""><figcaption></figcaption></figure>Espero que o tenha achado útil.
 
 Para mais informações, visite [www.ChatCase.com](https://chatcase.com/).
 

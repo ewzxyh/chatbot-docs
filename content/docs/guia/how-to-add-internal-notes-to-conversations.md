@@ -10,15 +10,15 @@ Como adicionar uma nota<a href="#how-to-add-a-note" id="how-to-add-a-note"></a>A
 
 **Adição de notas da secção Monitor abaixo:**
 
-<figure><img src="/files/PPW1hrh6N5wioLV3gNTC" alt=""><figcaption></figcaption></figure>** Adicionando uma nota da seção de bate-papo abaixo:**
+<figure><img src="/doc-images/PPW1hrh6N5wioLV3gNTC.png" alt=""><figcaption></figcaption></figure>** Adicionando uma nota da seção de bate-papo abaixo:**
 
-<figure><img src="/files/fPg8xpYiuA5A3zw8xq23" alt=""><figcaption></figcaption></figure>Cada agente pertencente ao chat poderá ver a nota adicionada e fornecer informações relevantes internamente.
+<figure><img src="/doc-images/fPg8xpYiuA5A3zw8xq23.png" alt=""><figcaption></figcaption></figure>Cada agente pertencente ao chat poderá ver a nota adicionada e fornecer informações relevantes internamente.
 
 ** Apagar uma nota**
 
 Se você acidentalmente adicionou uma nota, você pode facilmente excluir com o ícone X.
 
-<figure><img src="/files/merQCzP2kc8PdOpxu0jg" alt=""><figcaption></figcaption></figure>Quando usar notas internas<a href="#when-to-use-internal-notes" id="when-to-use-internal-notes"></a>Aqui estão apenas alguns exemplos de quando você deve discutir uma conversa nos bastidores:
+<figure><img src="/doc-images/merQCzP2kc8PdOpxu0jg.png" alt=""><figcaption></figcaption></figure>Quando usar notas internas<a href="#when-to-use-internal-notes" id="when-to-use-internal-notes"></a>Aqui estão apenas alguns exemplos de quando você deve discutir uma conversa nos bastidores:
 
 **Endereçamento rápido
 

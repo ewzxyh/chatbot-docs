@@ -9,7 +9,7 @@ Tal como acontece com os métodos tradicionais de implantação de premissas, os
 
 Onde os clientes fazem esse tipo de personalização, o ChatCase irá suportar as imagens subjacentes, desde que eles estejam usando os componentes de infraestrutura suportados listados em nossas configurações de pilha suportadas pelo produto.
 
-<figure><img src="/files/hQre0yKRZnbjKqYbrdyb" alt=""><figcaption></figcaption></figure>A ilustração acima mostra quatro opções de implantação, ChatCase cria e suporta apenas o software representado como App1, App2 e App3. O ChatCase não cria nem suporta mais nada no diagrama – que é considerado “infraestrutura”.
+<figure><img src="/doc-images/hQre0yKRZnbjKqYbrdyb.png" alt=""><figcaption></figcaption></figure>A ilustração acima mostra quatro opções de implantação, ChatCase cria e suporta apenas o software representado como App1, App2 e App3. O ChatCase não cria nem suporta mais nada no diagrama – que é considerado “infraestrutura”.
 
 Existem diferentes maneiras de implantar o software ChatCase em uma infraestrutura antes de poder ser executado. Algumas opções incluem usar scripts de shell personalizados, instaladores, Docker Compose, Kubernetes, Docker Enterprise, OpenShift, Heroku, Google Cloud, AWS ECS, AWS EKS e assim por diante.
 

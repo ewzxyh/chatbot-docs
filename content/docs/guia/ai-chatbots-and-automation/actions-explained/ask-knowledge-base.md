@@ -7,7 +7,7 @@ Pergunta à Base do Conhecimento
 
 Um dos recursos mais utilizados com base na nossa experiência do cliente é a ação “**Ask Knowledge Base”**. Esta ação está entre as ações de IA no menu do lado esquerdo e é um recurso gratuito que você pode usar para o seu negócio.
 
-<figure><img src="/files/BDv2cBkZ0jYRmlF0ol5z" alt=""><figcaption></figcaption></figure>Quando usar a ação da Base de Conhecimentos?<a href="#when-to-use-the-ask-knowledge-base-action" id="when-to-use-the-ask-knowledge-base-action"></a>A ação **Ask Knowledge Base** é um recurso poderoso que permite que você infunda seu agente de IA com dados específicos. Estes dados podem ser URLs do seu site, mapa do site ou arquivos em diferentes formatos.
+<figure><img src="/doc-images/BDv2cBkZ0jYRmlF0ol5z.png" alt=""><figcaption></figcaption></figure>Quando usar a ação da Base de Conhecimentos?<a href="#when-to-use-the-ask-knowledge-base-action" id="when-to-use-the-ask-knowledge-base-action"></a>A ação **Ask Knowledge Base** é um recurso poderoso que permite que você infunda seu agente de IA com dados específicos. Estes dados podem ser URLs do seu site, mapa do site ou arquivos em diferentes formatos.
 
 Quando você fornece seu conteúdo, o agente de IA verifica, rasteja e aprende com as informações disponíveis nesse conteúdo. Isso pode incluir detalhes sobre seus produtos, serviços, história da empresa e muito mais. Se você fornecer um mapa do site, o agente de IA entende a estrutura do seu site e encontra as informações que ele precisa mais eficientemente.
 
@@ -17,7 +17,7 @@ Como usar a ação Ask Knowledge Base?<a href="#how-to-use-the-ask-knowledge-bas
 
 Primeiro, você precisa carregar seu conteúdo no sistema ChatCase. Vá para o painel [ChatCase] (https://panel.chatcase.com/v3/dashboard/#/login), selecione "Bases de Conhecimento" no menu da barra lateral esquerda.
 
-<figure><img src="/files/yittxhKkatUezTeffGVn" alt=""><figcaption></figcaption></figure>#### **Adicione o seu conteúdo**:&#x20;
+<figure><img src="/doc-images/yittxhKkatUezTeffGVn.png" alt=""><figcaption></figcaption></figure>#### **Adicione o seu conteúdo**:&#x20;
 
 Quando se trata de carregar conteúdo no painel do ChatCase, o formato que você escolhe pode impactar em como suas informações são comunicadas através do AI Agent. Aqui estão algumas diretrizes para ajudá-lo a selecionar o melhor formato para suas necessidades:
 
@@ -29,25 +29,25 @@ Quando se trata de carregar conteúdo no painel do ChatCase, o formato que você
 
 Lembre-se, depois de enviar seu conteúdo, certifique-se de que ele está indexado. Um tique azul duplo no painel ChatCase indica indexação bem sucedida. Isso significa que seu conteúdo agora está pronto para ser acessado pelos usuários.
 
-<figure><img src="/files/e3mws4eyIfjk3kiB8iop" alt=""><figcaption></figcaption></figure>#### **Criar/Editar um agente de IA**:&#x20;
+<figure><img src="/doc-images/e3mws4eyIfjk3kiB8iop.png" alt=""><figcaption></figcaption></figure>#### **Criar/Editar um agente de IA**:&#x20;
 
 Agora, é hora de voltar ao “**Flows**” para editar/criar um agente de IA para usar esta ação nele.&#x20;
 
-<figure><img src="/files/w0ognrzuy7cAN85re32E" alt=""><figcaption></figcaption></figure>Então você será redirecionado para o Design Studio, como mostrado na imagem abaixo
+<figure><img src="/doc-images/w0ognrzuy7cAN85re32E.png" alt=""><figcaption></figcaption></figure>Então você será redirecionado para o Design Studio, como mostrado na imagem abaixo
 
-<figure><img src="/files/ktkbKTMszE4sW7DzDZzZ" alt=""><figcaption></figcaption></figure>Localize a **"Ask Knowledge Base"** ação na barra de ferramentas esquerda sob a categoria **AI**. Arraste e solte no bloco d**efaultFallback**.
+<figure><img src="/doc-images/ktkbKTMszE4sW7DzDZzZ.png" alt=""><figcaption></figcaption></figure>Localize a **"Ask Knowledge Base"** ação na barra de ferramentas esquerda sob a categoria **AI**. Arraste e solte no bloco d**efaultFallback**.
 
 E remover o [Reply Action](/docs/guia/ai-chatbots-and-automation/actions-explained/reply-action) existente do bloco d**efaultFallback**, já que não é mais necessário.
 
-<figure><img src="/files/Half2sRmYoqtmAyfdyWH" alt=""><figcaption></figcaption></figure>#### **Pergunte a configuração da Base de Conhecimento**:&#x20;
+<figure><img src="/doc-images/Half2sRmYoqtmAyfdyWH.gif" alt=""><figcaption></figcaption></figure>#### **Pergunte a configuração da Base de Conhecimento**:&#x20;
 
 Quando você clicar no bloco d**efaultFallback**, um menu de configuração aparecerá no lado direito da tela. Este menu permite personalizar a ação **Ask Knowledge Base**.
 
 Na seção **Use Question**, você notará que o atributo padrão está definido como **LastUserText**. Logo abaixo disso, há uma opção para selecionar uma Base de Conhecimento**. Para este tutorial, vamos ficar com o **base de conhecimento padrão**, mas você é livre para criar e usar personalizados dependendo de suas necessidades.
 
-<figure><img src="/files/DcfWiVFLQBqtG0EJ3X2l" alt=""><figcaption></figcaption></figure>Há também dois atributos aqui: **kb\ reply**, que é a resposta gerada através do seu agente de IA, e **kb\ source**, que é a fonte da resposta.
+<figure><img src="/doc-images/DcfWiVFLQBqtG0EJ3X2l.png" alt=""><figcaption></figcaption></figure>Há também dois atributos aqui: **kb\ reply**, que é a resposta gerada através do seu agente de IA, e **kb\ source**, que é a fonte da resposta.
 
-<figure><img src="/files/srjIrnqYZm0rsX04Ktts" alt=""><figcaption></figcaption></figure>Essas configurações permitem que você personalize como seu agente de IA interage com a base de conhecimento e apresenta informações ao usuário.
+<figure><img src="/doc-images/srjIrnqYZm0rsX04Ktts.png" alt=""><figcaption></figcaption></figure>Essas configurações permitem que você personalize como seu agente de IA interage com a base de conhecimento e apresenta informações ao usuário.
 
 #### **Configura as configurações de IA:**&#x20;
 
@@ -57,13 +57,13 @@ Você também pode ver uma opção para configuração **AI
 
 Além disso, há uma opção para definir o contexto **System**, permitindo que você personalize como o modelo interpreta e responde à entrada do usuário. Isto pode ser configurado como mostrado na imagem abaixo. [Você pode ler sobre o contexto do sistema no final deste tutorial.](/docs/guia/ai-chatbots-and-automation/actions-explained/ask-knowledge-base#advanced-context)
 
-<figure><img src="/files/vSjsgMpbSeVxwwHw2nGT" alt=""><figcaption></figcaption></figure>** Max Tokens**: Isto define o número total de fichas que deseja usar ao completar o seu 'prompt'.
+<figure><img src="/doc-images/vSjsgMpbSeVxwwHw2nGT.png" alt=""><figcaption></figcaption></figure>** Max Tokens**: Isto define o número total de fichas que deseja usar ao completar o seu 'prompt'.
 
 **Temperatura**: Esta configuração influencia a variabilidade de suas respostas. Uma temperatura mais alta aumenta a variabilidade, enquanto uma temperatura mais baixa produz respostas mais exatas e focadas.
 
 **Chunk**: Seu agente de IA seleciona dados “chunks” com a maior relevância para a questão/prompt. Cada bloco inclui informações específicas que o bot está usando para responder à pergunta do usuário.
 
-<figure><img src="/files/QbMOgLA8Nil5XhD74bkh" alt=""><figcaption></figcaption></figure>Em seguida, conecte os endpoints **green** e **red** a dois separado @[Reply Action](/docs/guia/ai-chatbots-and-automation/actions-explained/reply-action)s:
+<figure><img src="/doc-images/QbMOgLA8Nil5XhD74bkh.png" alt=""><figcaption></figcaption></figure>Em seguida, conecte os endpoints **green** e **red** a dois separado @[Reply Action](/docs/guia/ai-chatbots-and-automation/actions-explained/reply-action)s:
 
 * O endpoint verde deve ser ligado a uma resposta KB. Isto irá mostrar a resposta gerada por IA quando o agente encontrar com sucesso uma resposta na Base de Conhecimento.
 * Você também pode incluir o Código KB para compartilhar uma referência ou link, permitindo que os usuários leiam mais se estiverem interessados. Tenha em mente que isso consome mais tokens do que a recuperação regular do KB. A cota de Max-tokens será automaticamente ajustada para obter as citações, se necessário.
@@ -71,11 +71,11 @@ Além disso, há uma opção para definir o contexto **System**, permitindo que 
 
 Esta configuração garante uma experiência suave e informativa para respostas de consulta bem sucedidas e mal sucedidas, como ilustrado na imagem abaixo.
 
-<figure><img src="/files/IWAUf9bb2c4UxZPTTiRE" alt=""><figcaption></figcaption></figure>Testando o agente de IA<a href="#testing-the-ai-agent" id="testing-the-ai-agent"></a>Agora que carregamos nosso conteúdo no sistema e usamos um modelo de chatbot pronto para ir para ele, é hora de testar o agente de IA.
+<figure><img src="/doc-images/IWAUf9bb2c4UxZPTTiRE.png" alt=""><figcaption></figcaption></figure>Testando o agente de IA<a href="#testing-the-ai-agent" id="testing-the-ai-agent"></a>Agora que carregamos nosso conteúdo no sistema e usamos um modelo de chatbot pronto para ir para ele, é hora de testar o agente de IA.
 
 Como podem ver, o nosso agente de IA gerou uma mensagem de boas-vindas e respondeu com precisão à minha pergunta com base nas URLs do site que carreguei no sistema.
 
-<figure><img src="/files/5CD5JqodMotekzJ1p7nj" alt=""><figcaption></figcaption></figure>Esperamos que este tutorial o ajude a criar agentes de IA especificados.
+<figure><img src="/doc-images/5CD5JqodMotekzJ1p7nj.png" alt=""><figcaption></figcaption></figure>Esperamos que este tutorial o ajude a criar agentes de IA especificados.
 
 Contexto avançado<a href="#advanced-context" id="advanced-context"></a>Sempre que você usa a ação Ask KB, nos bastidores, o OpenAI é invocado com um contexto específico do sistema criado automaticamente pelo ChatCase. Este contexto é uma mistura do contexto do sistema que você fornece (se existir) e um contexto oculto instruindo o OpenAI sobre como usar os blocos do Vector Database para criar a resposta final para seus usuários finais.
 
@@ -97,7 +97,7 @@ O contexto do sistema que você fornece na área de texto dedicada é anexado ao
 
 Se, por exemplo, você fornecer seu próprio contexto de sistema especial:
 
-<figure><img src="/files/Mg5f3JUEJSazWzXwMiNG" alt=""><figcaption></figcaption></figure>O contexto final submetido ao OpenAI será algo como o seguinte:
+<figure><img src="/doc-images/Mg5f3JUEJSazWzXwMiNG.png" alt=""><figcaption></figcaption></figure>O contexto final submetido ao OpenAI será algo como o seguinte:
 
 ```
 you are an helpful assistant for question-answering tasks. Follow these steps carefully:
@@ -120,13 +120,13 @@ Quando você vai mudar para o contexto avançado ChatCase não usa mais o contex
 
 **IMPORTANTE**: Você deve sempre começar a partir de um contexto pré-engenharia porque ele tem uma anatomia que você deve cumprir e entender se você quer que o motor de automação para continuar trabalhando como esperado. Por exemplo, é realmente importante explicar no prompt quando responder como “nenhuma resposta neste contexto” respondendo com a tag NOANS, como explica a seguinte imagem:
 
-<figure><img src="/files/pK6iuQ5uMZsosglcAmaH" alt=""><figcaption></figcaption></figure>Você deve sempre fornecer a tag {context}, porque ela será dinamicamente substituída pelos blocos retornados pelo Vector Index DB.
+<figure><img src="/doc-images/pK6iuQ5uMZsosglcAmaH.png" alt=""><figcaption></figcaption></figure>Você deve sempre fornecer a tag {context}, porque ela será dinamicamente substituída pelos blocos retornados pelo Vector Index DB.
 
 **Contexto avançado
 
 Depois de mudar para o modo de contexto Avançado, você será responsável por fornecer todo o contexto do sistema. Você pode começar a misturar os dois contextos usando o contexto acima como um exemplo inicial, como na seguinte imagem:
 
-<figure><img src="/files/apjBxMtVf3dNUtbjp8pK" alt=""><figcaption></figcaption></figure>Sinta-se livre para modificar o contexto enquanto preserva a anatomia. Seu próprio contexto será uma parte explícita e visível de todo o contexto do sistema. Com o contexto Avançado você tem controle sobre todo o contexto.
+<figure><img src="/doc-images/apjBxMtVf3dNUtbjp8pK.png" alt=""><figcaption></figcaption></figure>Sinta-se livre para modificar o contexto enquanto preserva a anatomia. Seu próprio contexto será uma parte explícita e visível de todo o contexto do sistema. Com o contexto Avançado você tem controle sobre todo o contexto.
 
 Para começar, [criar uma conta gratuita aqui](https://panel.chatcase.com/v3/dashboard/#/signup).
 
