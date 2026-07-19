@@ -1,6 +1,9 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { ArrowRight, BookOpen, Code2, Search } from 'lucide-react';
+import ArrowRight from '@solar-icons/react/ssr/arrows/ArrowRight';
+import Code2 from '@solar-icons/react/ssr/it/Code2';
+import Magnifier from '@solar-icons/react/ssr/search/Magnifier';
+import Book2 from '@solar-icons/react/ssr/school/Book2';
 
 export default function HomePage() {
   return (
@@ -32,7 +35,7 @@ export default function HomePage() {
 
       <section className="mx-auto grid max-w-5xl gap-5 px-6 py-14 md:grid-cols-2 md:py-20">
         <Link href="/docs/guia" className="doc-card group">
-          <BookOpen className="size-7 text-[#00a95f]" />
+          <Book2 className="size-7 text-[#00a95f]" />
           <h2>Guia</h2>
           <p>Configuração, automações, canais, base de conhecimento e atendimento.</p>
           <span>Começar <ArrowRight /></span>
@@ -44,7 +47,7 @@ export default function HomePage() {
           <span>Ver referências <ArrowRight /></span>
         </Link>
         <div className="col-span-full mt-4 flex items-center justify-center gap-2 text-sm text-fd-muted-foreground">
-          <Search className="size-4" /> Use a busca em qualquer página para encontrar um tópico.
+          <Magnifier className="size-4" /> Use a busca em qualquer página para encontrar um tópico.
         </div>
       </section>
     </main>
