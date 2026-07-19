@@ -11,11 +11,36 @@ import { notFound, redirect } from 'next/navigation';
 import { getMDXComponents } from '@/components/mdx';
 import type { Metadata } from 'next';
 import { createRelativeLink } from 'fumadocs-ui/mdx';
+import { Suspense } from 'react';
 
-export default async function Page(props: PageProps<'/docs/[[...slug]]'>) {
-  const params = await props.params;
-  if (!params.slug) redirect('/docs/guia');
-  const page = source.getPage(params.slug);
+export default function Page(props: PageProps<'/docs/[[...slug]]'>) {
+  return (
+    <Suspense
+      fallback={
+        <DocsPage toc={[]}>
+          <div className="space-y-4 pt-2" aria-label="Carregando documentação">
+            <div className="h-9 w-2/5 animate-pulse rounded-lg bg-fd-muted" />
+            <div className="h-5 w-3/5 animate-pulse rounded bg-fd-muted" />
+            <div className="h-px bg-fd-border" />
+            <div className="h-4 w-full animate-pulse rounded bg-fd-muted" />
+            <div className="h-4 w-4/5 animate-pulse rounded bg-fd-muted" />
+          </div>
+        </DocsPage>
+      }
+    >
+      <DocContent params={props.params} />
+    </Suspense>
+  );
+}
+
+async function DocContent({
+  params,
+}: {
+  params: PageProps<'/docs/[[...slug]]'>['params'];
+}) {
+  const resolvedParams = await params;
+  if (!resolvedParams.slug) redirect('/docs/guia');
+  const page = source.getPage(resolvedParams.slug);
   if (!page) notFound();
 
   const MDX = page.data.body;
