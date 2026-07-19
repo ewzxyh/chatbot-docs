@@ -1,0 +1,21 @@
+{
+  "title": "Base de conhecimento",
+  "pages": [
+    "knowledge-base-overview",
+    "knowledge-base-administration",
+    "hybrid-search",
+    "re-ranking",
+    "how-does-the-knowledge-base-work",
+    "best-practices-for-utilizing-chatcase-knowledge-base-effectively",
+    "indexing-urls-in-chatcases-knowledge-base-with-advanced-options",
+    "how-to-use-synchronized-sitemap-in-knowledge-base",
+    "advanced-knowledge-base-ai-settings",
+    "how-to-add-multiple-knowledge-bases-and-link-ai-agents",
+    "adding-a-knowledge-base",
+    "using-buttons-in-an-ai-workflow-to-trigger-the-knowledge-base",
+    "self-learning-ai-agent",
+    "unanswered-questions-in-the-knowledge-base",
+    "copilot-for-human-support-teams",
+    "using-tags-in-knowledge-base"
+  ]
+}

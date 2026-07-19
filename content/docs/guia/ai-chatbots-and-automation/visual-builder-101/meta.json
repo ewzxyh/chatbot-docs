@@ -1,0 +1,13 @@
+{
+  "title": "Introdução ao construtor visual",
+  "pages": [
+    "how-to-create-a-block",
+    "how-to-connect-your-blocks",
+    "how-to-scroll-zoom-move-blocks-and-actions",
+    "duplicate-blocks-and-actions",
+    "flows-attributes",
+    "avoid-dead-loops",
+    "proactive-messages",
+    "multiple-ai-agents-assigned-to-different-pages-or-websites"
+  ]
+}

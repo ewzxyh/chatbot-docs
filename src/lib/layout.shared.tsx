@@ -1,12 +1,23 @@
 import type { BaseLayoutProps } from 'fumadocs-ui/layouts/shared';
-import { appName, gitConfig } from './shared';
+import Image from 'next/image';
 
-export function baseOptions(): BaseLayoutProps {
+export function baseOptions(includeSectionLinks = true): BaseLayoutProps {
   return {
     nav: {
-      // JSX supported
-      title: appName,
+      title: (
+        <span className="flex items-center gap-2 font-semibold">
+          <Image src="/android-chrome-192x192.png" alt="" width={28} height={28} />
+          ChatCase <span className="text-fd-muted-foreground font-normal">Docs</span>
+        </span>
+      ),
+      url: '/',
     },
-    githubUrl: `https://github.com/${gitConfig.user}/${gitConfig.repo}`,
+    links: includeSectionLinks
+      ? [
+          { text: 'Guia', url: '/docs/guia', active: 'nested-url' },
+          { text: 'Desenvolvedor', url: '/docs/desenvolvedor', active: 'nested-url' },
+        ]
+      : [],
+    themeSwitch: { enabled: false },
   };
 }

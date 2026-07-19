@@ -1,0 +1,9 @@
+{
+  "title": "Arquitetura",
+  "pages": [
+    "schema",
+    "components",
+    "bot-schema",
+    "multi-channel"
+  ]
+}

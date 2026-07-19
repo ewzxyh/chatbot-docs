@@ -1,0 +1,8 @@
+{
+  "title": "Configuração",
+  "pages": [
+    "channel",
+    "email",
+    "logging"
+  ]
+}

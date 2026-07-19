@@ -1,0 +1,25 @@
+{
+  "title": "API REST",
+  "pages": [
+    "introduction",
+    "authentication",
+    "requests",
+    "leads",
+    "messages",
+    "activities",
+    "projects",
+    "team",
+    "user",
+    "analytics",
+    "canned-response",
+    "tags",
+    "events",
+    "jwt",
+    "labels",
+    "files",
+    "segments",
+    "bots",
+    "knowledge-bases",
+    "management-api"
+  ]
+}

@@ -1,0 +1,13 @@
+---
+title: "Tutoriais"
+description: "Tutoriais"
+---
+
+Tutoriais
+
+- [REST API] (https://developer.chatcase.com/apis/tutorials/rest-api)
+- [Enviar e receber mensagens com APIs ChatCase] (https://developer.chatcase.com/apis/tutorials/rest-api/sending-and-receiving-messages)
+- [Importar várias mensagens em ChatCase usando APIs REST de terceiros] (https://developer.chatcase.com/apis/tutorials/rest-api/import-multiple-messages)
+[Anzóis] (https://developer.chatcase.com/apis/tutorials/webhooks)
+- [Requisição personalizada] (https://developer.chatcase.com/apis/tutorials/webhooks/custom-assignment-pooled)
+- [Pedir transcrição ao fechar] (https://developer.chatcase.com/apis/tutorials/webhooks/get-transcript-on-close)

@@ -1,0 +1,8 @@
+{
+  "title": "Automações",
+  "pages": [
+    "webhooks-automations",
+    "build-agentic-sentiment-analysis",
+    "ai-agent-that-schedules-meetings-via-mcp-server"
+  ]
+}

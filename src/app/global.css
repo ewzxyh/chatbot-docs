@@ -1,12 +1,99 @@
 @import 'tailwindcss';
-@import 'fumadocs-ui/css/neutral.css';
 @import 'fumadocs-ui/css/preset.css';
+
+@theme {
+  --color-fd-background: #ffffff;
+  --color-fd-foreground: #172033;
+  --color-fd-muted: #f8fafc;
+  --color-fd-muted-foreground: #64748b;
+  --color-fd-popover: #ffffff;
+  --color-fd-popover-foreground: #172033;
+  --color-fd-card: #ffffff;
+  --color-fd-card-foreground: #172033;
+  --color-fd-border: #e5e7eb;
+  --color-fd-primary: #1238f2;
+  --color-fd-primary-foreground: #ffffff;
+  --color-fd-secondary: #f8fafc;
+  --color-fd-secondary-foreground: #172033;
+  --color-fd-accent: #eef2ff;
+  --color-fd-accent-foreground: #1238f2;
+  --color-fd-ring: #1238f2;
+  --color-fd-overlay: rgb(23 32 51 / 20%);
+}
+
+@theme static {
+  --color-fd-info: #1238f2;
+  --color-fd-warning: #ffad00;
+  --color-fd-error: #dc2626;
+  --color-fd-success: #00a95f;
+  --color-fd-idea: #f59e0b;
+  --color-fd-diff-remove: rgb(220 38 38 / 12%);
+  --color-fd-diff-remove-symbol: #dc2626;
+  --color-fd-diff-add: rgb(0 169 95 / 10%);
+  --color-fd-diff-add-symbol: #00a95f;
+}
 
 html {
   scrollbar-gutter: stable;
+  color-scheme: light;
 }
 
 html > body[data-scroll-locked] {
   margin-right: 0px !important;
   --removed-body-scroll-bar-size: 0px !important;
+}
+
+.brand-hero {
+  background:
+    radial-gradient(circle at 80% 20%, rgb(0 197 106 / 25%), transparent 32%),
+    radial-gradient(circle at 70% 90%, rgb(255 173 0 / 22%), transparent 30%),
+    #1238f2;
+}
+
+.doc-card {
+  display: flex;
+  min-height: 260px;
+  flex-direction: column;
+  border: 1px solid var(--color-fd-border);
+  border-radius: 1rem;
+  padding: 2rem;
+  transition: border-color 150ms ease, transform 150ms ease, box-shadow 150ms ease;
+}
+
+.doc-card:hover {
+  border-color: rgb(18 56 242 / 35%);
+  box-shadow: 0 18px 50px rgb(23 32 51 / 8%);
+  transform: translateY(-2px);
+}
+
+.doc-card h2 {
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.doc-card p {
+  margin-top: 0.75rem;
+  color: var(--color-fd-muted-foreground);
+  line-height: 1.7;
+}
+
+.doc-card span {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: auto;
+  padding-top: 2rem;
+  color: var(--color-fd-primary);
+  font-weight: 500;
+}
+
+.doc-card span svg {
+  width: 1rem;
+  height: 1rem;
+  transition: transform 150ms ease;
+}
+
+.doc-card:hover span svg {
+  transform: translateX(3px);
 }

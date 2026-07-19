@@ -1,0 +1,19 @@
+{
+  "title": "Desenvolvedor",
+  "description": "APIs, SDKs e integrações do ChatCase.",
+  "root": true,
+  "pages": [
+    "index",
+    "community",
+    "support",
+    "changelog",
+    "all_tutorials_summary",
+    "widget",
+    "apis",
+    "apps",
+    "dashboard-and-agentchat-sdk",
+    "architecture",
+    "installation",
+    "configuration"
+  ]
+}

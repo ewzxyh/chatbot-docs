@@ -1,0 +1,7 @@
+{
+  "title": "API de gerenciamento",
+  "pages": [
+    "departments",
+    "groups"
+  ]
+}

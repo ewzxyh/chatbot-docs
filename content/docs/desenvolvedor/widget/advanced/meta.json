@@ -1,0 +1,12 @@
+{
+  "title": "Avançado",
+  "pages": [
+    "preset-department",
+    "auth-flow",
+    "widget-json-protocol",
+    "prechat-form-json",
+    "singleconversation-mode",
+    "old-versions",
+    "chatcase_widget_accessibility_statement"
+  ]
+}

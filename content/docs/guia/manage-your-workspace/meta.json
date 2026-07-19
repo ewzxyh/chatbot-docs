@@ -1,0 +1,26 @@
+{
+  "title": "Gerenciar o espaço de trabalho",
+  "pages": [
+    "how-to-manage-multiple-projects",
+    "how-do-i-invite-a-teammate",
+    "creating-a-chatcase-account",
+    "creating-groups",
+    "group-assignment-and-load-balancing",
+    "creating-a-department",
+    "understanding-default-roles",
+    "manage-permissions-with-custom-roles",
+    "setting-up-automatic-assignment",
+    "customize-chat-widget",
+    "install-widget-on-your-website",
+    "google-tag-manager-add-chatcase-to-your-sites",
+    "web-widget-accessibility",
+    "getting-started-with-email-ticketing-in-chatcase",
+    "activities-log",
+    "setting-up-chat-routing",
+    "chatcase-analytics",
+    "chatcase-language-support",
+    "canned-responses-in-the-agent-chat",
+    "define-the-operating-hours",
+    "manage-your-workspace"
+  ]
+}

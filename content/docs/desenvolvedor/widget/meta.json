@@ -1,0 +1,18 @@
+{
+  "title": "Widget",
+  "pages": [
+    "web-sdk",
+    "methods",
+    "attributes",
+    "events",
+    "auth",
+    "integrate-widget-for-android-with-webview",
+    "integrate-widget-for-ios-with-wkwebview",
+    "integrate-widget-for-flutter-with-webview",
+    "integrate-widget-for-react-with-webview",
+    "integrate-widget-for-wix-website",
+    "tutorials",
+    "widget-app-introduction",
+    "advanced"
+  ]
+}
